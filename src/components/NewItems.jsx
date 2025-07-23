@@ -11,7 +11,12 @@ export function NewItems({ selectedCompany, onItemClick, onAddToCart, aiDietaryP
   const [currentIndex, setCurrentIndex] = useState(0);
   const scrollContainerRef = useRef(null);
   const { t, language, isRTL } = useLanguage();
-  console.log("Language:", language, "isRTL:", isRTL);
+
+  const getFilteredItems = (items) => {
+    if (!aiDietaryPreferences || !items) return items;
+    return aiDietaryAnalyzer.filterItems(items, aiDietaryPreferences);
+  };
+  const filteredItems = getFilteredItems(newItems);
 
   useEffect(() => {
     if (selectedCompany) {
@@ -34,35 +39,44 @@ export function NewItems({ selectedCompany, onItemClick, onAddToCart, aiDietaryP
 
   useEffect(() => {
     if (scrollContainerRef.current) {
-      console.log("Direction of scroll container:", scrollContainerRef.current.dir);
-    }
-  }, [language, isRTL]);
-
-  useEffect(() => {
-    if (scrollContainerRef.current) {
       scrollContainerRef.current.setAttribute("dir", isRTL ? "rtl" : "ltr");
+
+      const container = scrollContainerRef.current;
+      const handleScroll = () => {
+        if (!container) return;
+
+        const itemWidth = container.children[0]?.offsetWidth || 0;
+        const gap = 24;
+        const scrollLeft = Math.abs(container.scrollLeft);
+        const itemWithGap = itemWidth + gap;
+
+        if (itemWithGap > 0) {
+          const newIndex = Math.round(scrollLeft / itemWithGap);
+          setCurrentIndex(newIndex);
+        }
+      };
+
+      container.addEventListener('scroll', handleScroll);
+
+      return () => {
+        container.removeEventListener('scroll', handleScroll);
+      };
     }
-  }, [isRTL]);
+  }, [language, isRTL, filteredItems.length]);
 
   const scrollToIndex = (index) => {
     if (scrollContainerRef.current) {
       const container = scrollContainerRef.current;
       const itemWidth = container.children[0]?.offsetWidth || 0;
       const gap = 24;
-      const scrollBy = itemWidth + gap;
+      const scrollTo = index * (itemWidth + gap);
 
-      const scrollOptions = {
-        behavior: 'smooth',
-        left: 0
-      };
+      container.scrollTo({
+        left: isRTL ? -scrollTo : scrollTo,
+        behavior: 'smooth'
+      });
 
-      if (isRTL) {
-        scrollOptions.left = container.scrollLeft - scrollBy;
-      } else {
-        scrollOptions.left = container.scrollLeft + scrollBy;
-      }
-
-      container.scrollTo(scrollOptions);
+      setCurrentIndex(index);
     }
   };
 
@@ -103,10 +117,6 @@ export function NewItems({ selectedCompany, onItemClick, onAddToCart, aiDietaryP
     }
     return 3;
   };
-  const getFilteredItems = (items) => {
-    if (!aiDietaryPreferences || !items) return items;
-    return aiDietaryAnalyzer.filterItems(items, aiDietaryPreferences);
-  };
 
   if (isLoading) {
     return (
@@ -139,7 +149,6 @@ export function NewItems({ selectedCompany, onItemClick, onAddToCart, aiDietaryP
   }
 
   const showNavigation = newItems.length > getVisibleItems();
-  const filteredItems = getFilteredItems(newItems);
 
   if (filteredItems.length === 0 && newItems.length > 0) {
     return null;
@@ -183,8 +192,6 @@ export function NewItems({ selectedCompany, onItemClick, onAddToCart, aiDietaryP
             className={`flex overflow-x-auto scrollbar-hide scroll-smooth relative ${isRTL ? 'gap-x-reverse gap-4 sm:gap-6' : 'gap-4 sm:gap-6'}`}
             style={{ scrollbarWidth: 'none', msOverflowStyle: 'none', overflowY: 'visible' }}
           >
-
-
             {filteredItems.map((item) => (
               <div
                 key={item.id}
@@ -264,9 +271,8 @@ export function NewItems({ selectedCompany, onItemClick, onAddToCart, aiDietaryP
           </div>
 
           {showNavigation && (
-            <div className="flex justify-center mt-6 space-x-2">
+            <div className="flex justify-center mt-6 gap-2">
               {Array.from({ length: Math.ceil(filteredItems.length / getVisibleItems()) }).map((_, index) => (
-
                 <button
                   key={index}
                   onClick={() => scrollToIndex(index)}

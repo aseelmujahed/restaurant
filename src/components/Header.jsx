@@ -2,15 +2,12 @@ import React, { useState, useEffect } from 'react';
 import { ShoppingCart, Menu, X, MapPin, Phone, Search, Building2, Brain } from 'lucide-react';
 import { LanguageSelector } from './LanguageSelector';
 import { useLanguage } from '../contexts/LanguageContext';
-import { useCart } from '../hooks/useCart';
 
 export function Header({ onMenuClick, onCartClick, onSearchClick, onAIFilterClick, selectedCompany, onRestaurantSelectionClick, companyInfo, currentView }) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
- const { t, language } = useLanguage();
-const isRTL = language === 'ar' || language === 'he';
-
-
-  const displayCompany = companyInfo ;
+  const { t, language } = useLanguage();
+  const isRTL = language === 'ar' || language === 'he';
+  const displayCompany = companyInfo;
 
   const handleMobileMenuClose = () => {
     setIsMobileMenuOpen(false);
@@ -48,19 +45,18 @@ const isRTL = language === 'ar' || language === 'he';
             <div className="min-w-0 flex-1">
               <h1 className="text-sm sm:text-xl font-bold bg-gradient-to-r from-gray-900 via-blue-800 to-purple-800 bg-clip-text text-transparent truncate capitalize-names" title={displayCompany?.name}>{displayCompany?.name}</h1>
 <div className={`flex flex-col sm:flex-row sm:items-center text-xs sm:text-sm text-gray-500 ${isRTL ? 'sm:space-x-reverse sm:space-x-4' : 'sm:space-x-4'}`}>
-                 {displayCompany?.settings.address && (
+                {displayCompany?.settings.address && (
                   <div className="hidden sm:flex items-center min-w-0">
-                    <MapPin className="w-3 h-3 mr-1" />
+<MapPin className={`w-3 h-3 ${isRTL ? 'ml-1' : 'mr-1'}`} />
                     <span className="truncate ">{displayCompany.settings.address}</span>
                   </div>
                 )}
-             {displayCompany?.settings.phone_number && (
-  <div className={`hidden sm:flex items-center flex-shrink-0 ${isRTL ? 'flex-row-reverse' : ''}`}>
-    <Phone className={`w-3 h-3 sm:w-3 sm:h-3 ${isRTL ? 'ml-1' : 'mr-1'}`} />
-    <span>{displayCompany.settings.phone_number}</span>
-  </div>
-)}
-
+                {displayCompany?.settings.phone_number && (
+                  <div className={`hidden sm:flex items-center flex-shrink-0 ${isRTL ? 'flex-row-reverse' : ''}`}>
+                    <Phone className={`w-3 h-3 sm:w-3 sm:h-3 ${isRTL ? 'ml-1' : 'mr-1'}`} />
+                    <span>{displayCompany.settings.phone_number}</span>
+                  </div>
+                )}
 
               </div>
             </div>
@@ -73,7 +69,7 @@ const isRTL = language === 'ar' || language === 'he';
             >
               {t('nav.menu')}
             </button>
-            
+
             <button
               onClick={onSearchClick}
               className="hidden lg:flex items-center px-4 py-2 text-sm font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-100 rounded-lg transition-all duration-200 transform hover:scale-105"
@@ -81,17 +77,16 @@ const isRTL = language === 'ar' || language === 'he';
               <Search className="w-4 h-4 mr-2 text-blue-500" />
               {t('nav.search')}
             </button>
-            
+
             <button
               onClick={onAIFilterClick}
-              className={`items-center px-4 py-2 text-sm font-medium text-gray-700 hover:text-purple-600 hover:bg-purple-100 rounded-lg transition-all duration-200 transform hover:scale-105 ${
-                (currentView === 'home' || currentView === 'menu') ? 'hidden lg:flex' : 'hidden'
-              }`}
+              className={`items-center px-4 py-2 text-sm font-medium text-gray-700 hover:text-purple-600 hover:bg-purple-100 rounded-lg transition-all duration-200 transform hover:scale-105 ${(currentView === 'home' || currentView === 'menu') ? 'hidden lg:flex' : 'hidden'
+                }`}
             >
               <Brain className="w-4 h-4 mr-2 text-purple-500" />
               {t('nav.ai_filter')}
             </button>
-            
+
             <button
               onClick={onRestaurantSelectionClick}
               className="hidden lg:flex items-center px-4 py-2 text-sm font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-100 rounded-lg transition-all duration-200 transform hover:scale-105"
@@ -99,11 +94,11 @@ const isRTL = language === 'ar' || language === 'he';
               <Building2 className="w-4 h-4 mr-2 text-purple-500" />
               {t('restaurants.change')}
             </button>
-            
+
             <div className="hidden sm:block">
               <LanguageSelector />
             </div>
-            
+
             <button
               onClick={onCartClick}
               className="relative p-1.5 sm:p-2 text-gray-700 hover:text-blue-600 hover:bg-blue-100 rounded-lg transition-all duration-200 transform hover:scale-110"
@@ -148,9 +143,8 @@ const isRTL = language === 'ar' || language === 'he';
                   onAIFilterClick();
                   setIsMobileMenuOpen(false);
                 }}
-                className={`w-full text-left px-3 py-3 text-base font-medium text-gray-700 hover:text-purple-600 hover:bg-purple-100 transition-all duration-200 rounded-lg transform hover:translate-x-1 ${
-                  (currentView === 'home' || currentView === 'menu') ? 'block' : 'hidden'
-                }`}
+                className={`w-full text-left px-3 py-3 text-base font-medium text-gray-700 hover:text-purple-600 hover:bg-purple-100 transition-all duration-200 rounded-lg transform hover:translate-x-1 ${(currentView === 'home' || currentView === 'menu') ? 'block' : 'hidden'
+                  }`}
               >
                 {t('nav.ai_filter')}
               </button>

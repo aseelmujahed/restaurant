@@ -51,7 +51,7 @@ class AIDietaryAnalyzer {
 
     analysis.containsMeat = meatKeywords.some(keyword => text.includes(keyword));
 
-    const chickenKeywords = ['chicken', 'دجاج', 'עוף', 'poultry'];
+    const chickenKeywords = ['chicken', 'دجاج', 'עוף', 'poultry', 'Schnitzel'];
     analysis.containsChicken = chickenKeywords.some(keyword => text.includes(keyword));
 
     const seafoodKeywords = ['fish', 'salmon', 'tuna', 'shrimp', 'seafood', 'سمك', 'جمبري', 'דג', 'סלמון'];
@@ -60,7 +60,7 @@ class AIDietaryAnalyzer {
     const glutenKeywords = ['bread', 'pasta', 'wheat', 'flour', 'خبز', 'معكرونة', 'לחם', 'פסטה'];
     const glutenFound = glutenKeywords.some(keyword => text.includes(keyword));
 
-    const vegKeywords = ['vegetarian', 'vegan', 'salad', 'vegetables', 'نباتي', 'سلطة', 'سلطه', 'צמחוני', 'טבעוני'];
+    const vegKeywords = ['vegetarian', 'vegan', 'vegetables', 'نباتي', 'צמחוני', 'טבעוני'];
     const hasAnimalProducts = analysis.containsMeat || analysis.containsChicken || analysis.containsFishSeafood;
 
     if (!hasAnimalProducts) {

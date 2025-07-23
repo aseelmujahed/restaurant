@@ -124,15 +124,6 @@
   margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
-/* RTL carousel container */
-[dir="rtl"] .carousel-container {
-  direction: ltr;
-}
-
-[dir="rtl"] .carousel-item {
-  direction: rtl;
-}
-
 [lang="ar"], [lang="he"] {
   font-family: system-ui, -apple-system, sans-serif;
 }

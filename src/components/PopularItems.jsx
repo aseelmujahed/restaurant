@@ -10,6 +10,53 @@ export function PopularItems({ selectedCompany, onItemClick, onAddToCart, aiDiet
   const [isLoading, setIsLoading] = useState(true);
   const scrollContainerRef = useRef(null);
   const { t, language, isRTL } = useLanguage();
+  const [currentIndex, setCurrentIndex] = useState(0);
+
+  const getFilteredItems = (items) => {
+    if (!aiDietaryPreferences || !items) return items;
+    return aiDietaryAnalyzer.filterItems(items, aiDietaryPreferences);
+  };
+  const filteredItems = getFilteredItems(popularItems);
+
+  useEffect(() => {
+    const container = scrollContainerRef.current;
+    if (!container) return;
+
+    const handleScroll = () => {
+      const itemWidth = container.children[0]?.offsetWidth || 0;
+      const gap = 24;
+      const itemWithGap = itemWidth + gap;
+
+      let scrollLeft = container.scrollLeft;
+      if (isRTL) {
+        scrollLeft = Math.abs(scrollLeft);
+      }
+
+      if (itemWithGap > 0) {
+        const newIndex = Math.round(scrollLeft / itemWithGap);
+        setCurrentIndex(newIndex);
+      }
+    };
+
+    container.addEventListener('scroll', handleScroll);
+    return () => container.removeEventListener('scroll', handleScroll);
+  }, [isRTL, language, filteredItems.length]);
+
+
+  const scrollToIndex = (index) => {
+    if (!scrollContainerRef.current) return;
+    const container = scrollContainerRef.current;
+    const itemWidth = container.children[0]?.offsetWidth || 0;
+    const gap = 24;
+    const scrollTo = index * (itemWidth + gap);
+
+    container.scrollTo({
+      left: isRTL ? -scrollTo : scrollTo,
+      behavior: 'smooth'
+    });
+
+    setCurrentIndex(index);
+  };
 
   useEffect(() => {
     if (selectedCompany) {
@@ -71,10 +118,6 @@ export function PopularItems({ selectedCompany, onItemClick, onAddToCart, aiDiet
     return 3;
   };
 
-  const getFilteredItems = (items) => {
-    if (!aiDietaryPreferences || !items) return items;
-    return aiDietaryAnalyzer.filterItems(items, aiDietaryPreferences);
-  };
 
   if (isLoading) {
     return (
@@ -103,7 +146,6 @@ export function PopularItems({ selectedCompany, onItemClick, onAddToCart, aiDiet
   if (popularItems.length === 0) return null;
 
   const showNavigation = popularItems.length > getVisibleItems();
-  const filteredItems = getFilteredItems(popularItems);
   if (filteredItems.length === 0) return null;
 
   return (
@@ -134,6 +176,7 @@ export function PopularItems({ selectedCompany, onItemClick, onAddToCart, aiDiet
             </button>
           </div>
         )}
+
       </div>
 
       <div className="relative overflow-visible">
@@ -161,8 +204,6 @@ export function PopularItems({ selectedCompany, onItemClick, onAddToCart, aiDiet
                     #{index + 1}
                   </div>
                 </div>
-
-
                 <button
                   onClick={(e) => {
                     e.stopPropagation();
@@ -221,6 +262,21 @@ export function PopularItems({ selectedCompany, onItemClick, onAddToCart, aiDiet
               </div>
             ))}
           </div>
+          {showNavigation && (
+            <div className="flex justify-center mt-6 gap-2">
+              {Array.from({ length: Math.ceil(filteredItems.length / getVisibleItems()) }).map((_, index) => (
+                <button
+                  key={index}
+                  onClick={() => scrollToIndex(index)}
+                  className={`w-2 h-2 rounded-full transition-all duration-200 ${Math.floor(currentIndex / getVisibleItems()) === index
+                    ? 'bg-blue-700 w-6'
+                    : 'bg-gray-300 hover:bg-gray-400'
+                    }`}
+                />
+              ))}
+
+            </div>
+          )}
         </div>
       </div>
     </div>

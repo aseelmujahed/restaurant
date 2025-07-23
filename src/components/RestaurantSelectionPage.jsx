@@ -208,7 +208,7 @@ export function RestaurantSelectionPage({ onRestaurantSelect, selectedCompany, o
                 <div
                   key={restaurant.id}
                   onClick={() => handleRestaurantSelect(restaurant)}
-                  className={`group cursor-pointer bg-white/80 backdrop-blur-sm rounded-2xl shadow-lg overflow-hidden hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-3 hover:rotate-1 ${isSelected ? 'ring-4 ring-blue-400 bg-gradient-to-br from-blue-50 to-purple-50 shadow-blue-200/50' : 'hover:bg-white'}`}
+                  className={`group cursor-pointer bg-white/80 backdrop-blur-sm rounded-2xl shadow-lg overflow-hidden hover:shadow-2xl transition-all duration-500 transform  ${isSelected ? 'ring-4 ring-blue-400 bg-gradient-to-br from-blue-50 to-purple-50 shadow-blue-200/50' : 'hover:bg-white'}`}
                   style={{
                     animationDelay: `${filteredRestaurants.indexOf(restaurant) * 100}ms`,
                   }}
