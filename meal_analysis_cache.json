@@ -1,0 +1,6166 @@
+{
+  "meals": [
+    {
+      "name": "شنيتسل-שניצל",
+      "description": "شنيتسل-שניצל",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "برجيت - פרגית",
+      "description": "برجيت - פרגית",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "فيليه - פילה",
+      "description": "فيليه - פילה",
+      "analysis": {
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "انتركوت - אנטרקוט",
+      "description": "انتركوت - אנטרקוט",
+      "analysis": {
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "تسلاعت - צלעות",
+      "description": "تسلاعت - צלעות",
+      "analysis": {
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كباب - קבב",
+      "description": "كباب - كבב",
+      "analysis": {
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "برجر - בורגר",
+      "description": "برجر - בורגר",
+      "analysis": {
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سوشي كباب - סושי קבב",
+      "description": "سوشي كباب - סושי קבב",
+      "analysis": {
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كرسبي اوتار - קריספי אווטר",
+      "description": "كرسبي اوتار - קריספי אווטר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "اصابع زعتر - מקלות זעתר",
+      "description": "اصابع زعتر - מקלות זעתר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شيبس صغير - צ'יפס קטן",
+      "description": "شيبس صغير - צ'יפס קטן",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "بلاطة اوتار كبير - צלחת אוטאר גדולה",
+      "description": "كبه, اصابع موتزاريلا, اصابع زعتر, حلقات بصل, بطاطا بوريه, سيجاريات, بوتيتو",
+      "analysis": {
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "تورتيلا شنيتسل - טורטיה שניצל",
+      "description": "تورتيلا شنيتسل - טורטיה שניצל",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "تورتيلا دجاج - טורטיה עוף",
+      "description": "تورتيلا دجاج - טורטיה עוף",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "رافيولي - רביולי",
+      "description": "رافيولي - רביولي",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطة بريميوم",
+      "description": "سلطة بريميوم",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "فيتوتشيني - פטוצ'יני",
+      "description": "فيتوتشيني - פטוצ'יני",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "باستا بيني - פסטה פנה",
+      "description": "باستا بيني - פסטה פנה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "فوكاتشا - פוקצ'ה",
+      "description": "فوكاتشا - פוקצ'ה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "بيتسا - פיצה",
+      "description": "بيتسا - פיצה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطة يونانية - סלט יווני",
+      "description": "سلطة يونانية - סלט יווני",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطة فتوش - סלט פאטוש",
+      "description": "سلطة فتوش - סלט פאטוש",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سلطة التبولة - סלט טבולה",
+      "description": "سلطة التبولة - סלט טבולה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سلطة عربية - סלט ירקות",
+      "description": "سلطة عربية - סלט ירקות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "جرجير - סלט גרגיר",
+      "description": "جرجير - סלט גרגיר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "حلومي - סלט חלומי",
+      "description": "حلومي - סלט חלומי",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "جمبري مقلي - שרימפס מטוגן",
+      "description": "جمبري مقلي - שרימפס מטוגן",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "جمبري مطبوخ - שרימפס מבושל",
+      "description": "جمبري مطبوخ - שרימפס מבושל",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كريب - קרפ",
+      "description": "كريب - קרפ",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "بانكيك - פנקייק",
+      "description": "بانكيك - פנקייק",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كعكه تفاح - עוגת תפוחים",
+      "description": "كعكه تفاح - עוגת תפוחים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سوفليه - סופלה",
+      "description": "سوفليه - סופלה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كعكة البسكويت - עוגת ביסקוויט",
+      "description": "كعكة البسكويت - עוגת ביסקוויט",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كريم بروليه - קרם ברולה",
+      "description": "كريم بروليه - קרם ברולה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "فشافيش - פשאפיש",
+      "description": "فشافيش - פשאפיש",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سوشي أوريو - סושי אוראו",
+      "description": "سوشي أوريو - סושי אוראו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كوكيز اوتار - עוגיות אווטר",
+      "description": "كوكيز اوتار - עוגיות אווטר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كوكا كولا - קוקה קולה",
+      "description": "كوكا كولا - קוקה קולה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "كولا زيرو - קולה זירו",
+      "description": "كولا زيرو - קולה זירו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "XL",
+      "description": "XL",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "XL ZERO",
+      "description": "XL ZERO",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "تفاح",
+      "description": "تفاح",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "اجنحه دجاج مقليه - כנפי עוף מטוגנות",
+      "description": "اجنحه دجاج مقليه - כנפי עוף מטוגנות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "اصابع موتزاريلا - אצבעות מוצרילה",
+      "description": "اصابع موتزاريلا - אצבעות מוצרילה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كبه - קיבה",
+      "description": "كبه - קיבה",
+      "analysis": {
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "عرايس لحمه عجل",
+      "description": "عرايس لحمه عجل",
+      "analysis": {
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطه القيصر - סלט קיסר",
+      "description": "سلطه القيصر - סלט קיסר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطه أوتار - סלט אוטאר",
+      "description": "سلطه أوتار - سלט אוטאר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "بابا غنوج بالجوز - באבא גנוש עם אגוזי מלך",
+      "description": "بابا غنوج بالجوز - באבא גנוש עם אגוזי מלך",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "حمص - חומוס",
+      "description": "حمص - חומוס",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "متبل",
+      "description": "متبل",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "باذنجان ب طحينه - חציל עם טחינה",
+      "description": "باذنجان ب طحينه - חציל עם טחינה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "ورق عنب - עלי גפן",
+      "description": "ورق عنب - עלי גפן",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "بطاطا بوريه - פירה תפוחי אדמה",
+      "description": "بطاطا بوريه - פירה תפוחי אדמה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "حلقات بصل - טבעות בצל",
+      "description": "حلقات بصل - טבעות בצל",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سيجاريات - סיגריות",
+      "description": "سيجاريات - סיגריות",
+      "analysis": {
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "بوتيتو - פוטטו",
+      "description": "بوتيتو - פוטטו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سلطة جزر - סלט גזר",
+      "description": "سلطة جزر - סלט גזר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سلطة ملفوف - סלט כרוב",
+      "description": "سلطة ملفوف - סלט כרוב",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سلطة بندورة - סלט עגבניות",
+      "description": "سلطة بندورة - סלט עגבניות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سلطة خيار - סלט מלפפון",
+      "description": "سلطة خيار - סלט מלפפון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سلطة ملفوف احمر - סלט כרוב אדום",
+      "description": "سلطة ملفوف احمر - סלט כרוב אדום",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سلطة فواكه - סלט פירות",
+      "description": "سلطة فواكه - סלט פירות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر - תה ירוק",
+      "description": "شاي أخضر - תה ירוק",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي نعناع - תה נענע",
+      "description": "شاي نعناع - תה נענע",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أسود - תה שחור",
+      "description": "شاي أسود - תה שחור",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي زهورات - תה זוהרות",
+      "description": "شاي زهورات - תה זוהרות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي ليمون - תה לימון",
+      "description": "شاي ليمون - תה לימון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي مثلج - תה קר",
+      "description": "شاي مثلج - תה קר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "ليمون نعناع - לימונענע",
+      "description": "ليمون نعناع - לימונענע",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "برتقال - תפוז",
+      "description": "برتقال - תפוז",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "مياه معدنية - מים מינרלים",
+      "description": "مياه معدنية - מים מינרלים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "مياه غازية - מים מוגזים",
+      "description": "مياه غازية - מים מוגזים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "رد بول - רד בול",
+      "description": "رد بول - רד בול",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "ميرندا - מירינדה",
+      "description": "ميرندا - מירינדה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سبرايت - ספרייט",
+      "description": "سبرايت - ספרייט",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "فانتا - פנטה",
+      "description": "فانتا - פנטה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "بيبسي - פפסי",
+      "description": "بيبسي - פפסי",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سفن اب - סבן אפ",
+      "description": "سفن اب - סבן אפ",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "موخيتو - מוחיטו",
+      "description": "موخيتو - מוחיטו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "ايس شوكولاته - אייס שוקולד",
+      "description": "ايس شوكولاته - אייס שוקולד",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ايس مانجا - אייס מנגה",
+      "description": "ايس مانجا - אייס מנגה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "ايس فراوله - אייס תותים",
+      "description": "ايس فراوله - אייס תותים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "ايس كافيه - אייס קפה",
+      "description": "ايس كافيه - אייס קפה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ايس فانيل - אייס וניל",
+      "description": "ايس فانيل - אייס וניל",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سحلب - סחלב",
+      "description": "سحلب - סחלב",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "قهوة عربيه - كפה ערבי",
+      "description": "قهوة عربيه - كפה ערבי",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي - תֵה",
+      "description": "شاي - תֵה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "كابتشينو - קפוצ'ינו",
+      "description": "كابتشينو - קפוצ'ינו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "اسبريسو - אספרסו",
+      "description": "اسبريسو - אספרסו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "لاتيه - לאטה",
+      "description": "لاتيه - לאטה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "قهوة تركية - קפה טורקי",
+      "description": "قهوة تركية - קפה טורקי",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "نسكافيه - נס קפה",
+      "description": "نسكافيه - נס קפה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "قهوة سريعة الذوبان - קפה נמס",
+      "description": "قهوة سريعة الذوبان - קפה נמס",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شوكولاتة ساخنة - שוקו חם",
+      "description": "شوكولاتة ساخنة - שוקו חם",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ميلك شيك - מילקשייק",
+      "description": "ميلك شيك - מילקשייק",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ليمونادا - לימונדה",
+      "description": "ليمونادا - לימונדה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "مياه - מים",
+      "description": "مياه - מים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "ماء غازي - סודה",
+      "description": "ماء غازي - סודה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر مع نعناع - תה ירוק עם נענע",
+      "description": "شاي أخضر مع نعناع - תה ירוק עם נענע",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي زنجبيل - תה ג'ינג'ר",
+      "description": "شاي زنجبيل - תה ג'ינג'ר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي تفاح وقرفة - תה תפוח וקינמון",
+      "description": "شاي تفاح وقرفة - תה תפוח וקינמון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي بالقرنفل - תה ציפורן",
+      "description": "شاي بالقرنفل - תה ציפורן",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي مثلج ليمون - תה קר לימון",
+      "description": "شاي مثلج ليمون - תה קר לימון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي مثلج خوخ - תה קר אפרסק",
+      "description": "شاي مثلج خوخ - תה קר אפרסק",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي مثلج فراولة - תה קר תות",
+      "description": "شاي مثلج فراولة - תה קר תות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي مثلج نعناع - תה קר נענע",
+      "description": "شاي مثلج نعناع - תה קר נענע",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي مثلج توت - תה קר אוכמניות",
+      "description": "شاي مثلج توت - תה קר אוכמניות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي مثلج مانجو - תה קר מנגו",
+      "description": "شاي مثلج مانجو - תה קר מנגו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي مثلج تفاح - תה קר תפוח",
+      "description": "شاي مثلج تفاح - תה קר תפוח",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "كولد برو - קולד ברו",
+      "description": "كولد برو - קולד ברו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "امريكانو - אמריקנו",
+      "description": "امريكانو - אמריקנו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "دبل اسبريسو - דאבל אספרסו",
+      "description": "دبل اسبريسو - דאבל אספרסו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شوكو - שוקו",
+      "description": "شوكو - שוקו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ميلك شيك شوكولاتة - מילקשייק שוקולד",
+      "description": "ميلك شيك شوكولاتة - מילקשייק שוקולד",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ميلك شيك فراولة - מילקשייק תות",
+      "description": "ميلك شيك فراولة - מילקשייק תות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ميلك شيك فانيلا - מילקשייק וניל",
+      "description": "ميلك شيك فانيلا - מילקשייק וניל",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "عصير برتقال - מיץ תפוזים",
+      "description": "عصير برتقال - מיץ תפוזים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير تفاح - מיץ תפוחים",
+      "description": "عصير تفاح - מיץ תפוחים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير ليمون - מיץ לימון",
+      "description": "عصير ليمون - מיץ לימון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير رمان - מיץ רימונים",
+      "description": "عصير رمان - מיץ רימונים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير جزر - מיץ גזר",
+      "description": "عصير جزر - מיץ גזר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير مانجو - מיץ מנגו",
+      "description": "عصير مانجو - מיץ מנגו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير فراولة - מיץ תות",
+      "description": "عصير فراولة - מיץ תות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير أفوكادو - מיץ אבוקדו",
+      "description": "عصير أفوكادو - מיץ אבוקדו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير أناناس - מיץ אננס",
+      "description": "عصير أناناس - מיץ אננס",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير جوافة - מיץ גויאבה",
+      "description": "عصير جوافة - מיץ גויאבה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير شمام - מיץ מלון",
+      "description": "عصير شمام - מיץ מלון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير توت - מיץ אוכמניות",
+      "description": "عصير توت - מיץ אוכמניות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير ليمون ونعناع - מיץ לימון ונענע",
+      "description": "عصير ليمون ونعناع - מיץ לימון ונענע",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "ميلك شيك موز - מילקשייק בננה",
+      "description": "ميلك شيك موز - מילקשייק בננה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ميلك شيك كراميل - מילקשייק קרמל",
+      "description": "ميلك شيك كراميل - מילקשייק קרמל",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "عصير بطيخ - מיץ אבטיח",
+      "description": "عصير بطيخ - מיץ אבטיח",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير كيوي - מיץ קיווי",
+      "description": "عصير كيوي - מיץ קיווי",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير برقوق - מיץ שזיף",
+      "description": "عصير برقوق - מיץ שזיף",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير توت بري - מיץ חמוציות",
+      "description": "عصير توت بري - מיץ חמוציות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير جزر وبرتقال - מיץ גזר ותפוזים",
+      "description": "عصير جزر وبرتقال - מיץ גזר ותפוזים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير رمان وتفاح - מיץ רימונים ותפוחים",
+      "description": "عصير رمان وتفاح - מיץ רימונים ותפוחים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير برتقال وجزر - מיץ תפוזים וגזר",
+      "description": "عصير برتقال وجزر - מיץ תפוזים וגזר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير برتقال وأناناس - מיץ תפוזים ואננס",
+      "description": "عصير برتقال وأناناس - מיץ תפוזים ואננס",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير برتقال وفراولة - מיץ תפוזים ותות",
+      "description": "عصير برتقال وفراولة - מיץ תפוזים ותות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير أناناس وبرتقال - מיץ אננס ותפוזים",
+      "description": "عصير أناناس وبرتقال - מיץ אננס ותפוזים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير تفاح ونعناع - מיץ תפוחים ונענע",
+      "description": "عصير تفاح ونعناع - مיץ תפוחים ונענע",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير أفوكادو وموز - מיץ אבוקדו ובננה",
+      "description": "عصير أفوكادو وموز - مיץ אבוקדו وبננה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي فراولة - סמוזי תות",
+      "description": "سموزي فراولة - סמוזי תות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي مانجو - סמוזי מנגו",
+      "description": "سموزي مانجو - סמוזי מנגו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي توت - סמוזי אוכמניות",
+      "description": "سموزي توت - סמוזי אוכמניות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي موز - סמוזי בננה",
+      "description": "سموزي موز - סמוזי בננה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي أناناس - סמוזי אננס",
+      "description": "سموزي أناناس - סמוזי אננס",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي جوافة - סמוזי גויאבה",
+      "description": "سموزي جوافة - סמוזי גויאבה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي تفاح - סמוזי תפוח",
+      "description": "سموزي تفاح - סמוזי תפוח",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي أفوكادو - סמוזי אבוקדו",
+      "description": "سموزي أفوكادو - סמוזי אבוקדו",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي ليمون ونعناع - סמוזי לימון ונענע",
+      "description": "سموزي ليمون ونعناع - סמוזי לימון ונענע",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي برتقال - סמוזי תפוז",
+      "description": "سموزي برتقال - סמוזי תפוז",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي رمان - סמוזי רימונים",
+      "description": "سموزي رمان - סמוזי רימונים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي كيوي - סמוזי קיווי",
+      "description": "سموزي كيوي - סמוזי קיווי",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي بطيخ - סמוזי אבטיח",
+      "description": "سموزي بطيخ - סמוזי אבטיח",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي برقوق - סמוזי שזיף",
+      "description": "سموزي برقوق - סמוזי שזיף",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي توت بري - סמוזי חמוציות",
+      "description": "سموزي توت بري - סמוזי חמוציות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي مانجو وأناناس - סמוזי מנגו ואננס",
+      "description": "سموزي مانجو وأناناس - סמוזי מנגו ואננס",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي جزر وبرتقال - סמוזי גזר ותפוזים",
+      "description": "سموزي جزر وبرتقال - סמוזי גזר ותפוזים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي رمان وتفاح - סמוזי רימונים ותפוחים",
+      "description": "سموزي رمان وتفاح - סמוזי רימונים ותפוחים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي برتقال وجزر - סמוזי תפוזים וגזר",
+      "description": "سموزي برتقال وجزر - סמוזי תפוזים וגזר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي برتقال وأناناس - סמוזי תפוזים ואננס",
+      "description": "سموزي برتقال وأناناس - סמוזי תפוזים ואננס",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي برتقال وفراولة - סמוזי תפוזים ותות",
+      "description": "سموزي برتقال وفراولة - סמוזי תפוזים ותות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي أناناس وبرتقال - סמוזי אננס ותפוזים",
+      "description": "سموزي أناناس وبرتقال - סמוזי אננס ותפוזים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سموزي أفوكادو وموز - סמוזי אבוקדו ובננה",
+      "description": "سموزي أفوكادو وموز - סמוזי אבוקדו ובננה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير مشكل - מיץ מעורב",
+      "description": "عصير مشكل - מיץ מעורב",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير مشكل فواكه - מיץ פירות מעורב",
+      "description": "عصير مشكل فواكه - מיץ פירות מעורב",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي بالزنجبيل والعسل - תה עם ג'ינג'ר ודבש",
+      "description": "شاي بالزنجبيل والعسل - תה עם ג'ינג'ר ודבש",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "قهوة بالحليب - קפה עם חלב",
+      "description": "قهوة بالحليب - קפה עם חלב",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "نسكافيه بالحليب - נס קפה עם חלב",
+      "description": "نسكافيه بالحليب - נס קפה עם חלב",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "شوكولاتة بالحليب - שוקו עם חלב",
+      "description": "شوكولاتة بالحليب - שוקו עם חלב",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "عصير كرز - מיץ דובדבנים",
+      "description": "عصير كرز - מיץ דובדבנים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير تفاح أخضر - מיץ תפוחים ירוקים",
+      "description": "عصير تفاح أخضر - מיץ תפוחים ירוקים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير برتقال بالنعناع - מיץ תפוזים עם נענע",
+      "description": "عصير برتقال بالنعناع - מיץ תפוזים עם נענע",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير شمندر - מיץ סלק",
+      "description": "عصير شمندر - מיץ סלק",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر بالياسمين - תה ירוק יסמין",
+      "description": "شاي أخضر بالياسمين - תה ירוק יסמין",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر بالليمون - תה ירוק לימון",
+      "description": "شاي أخضر بالليمون - תה ירוק לימון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر بالقرفة - תה ירוק קינמון",
+      "description": "شاي أخضر بالقرفة - תה ירוק קינמון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أسود بالحليب - תה שחור עם חלב",
+      "description": "شاي أسود بالحليب - תה שחור עם חלב",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "شاي أسود مع زعتر - תה שחור עם זעתר",
+      "description": "شاي أسود مع زعتر - תה שחור עם זעתר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر مع زنجبيل - תה ירוק עם ג'ינג'ר",
+      "description": "شاي أخضر مع زنجبيل - תה ירוק עם ג'ינג'ר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر مع عسل - תה ירוק עם דבש",
+      "description": "شاي أخضر مع عسل - תה ירוק עם דבש",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "شاي أسود مع عسل - תה שחור עם דבש",
+      "description": "شاي أسود مع عسل - תה שחור עם דבש",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "قهوة بالحليب النباتي - קפה עם חלב סויה",
+      "description": "قهوة بالحليب النباتي - קפה עם חלב סויה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "نسكافيه بالحليب النباتي - נס קפה עם חלב סויה",
+      "description": "نسكافيه بالحليب النباتي - נס קפה עם חלב סויה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أسود مع ليمون - תה שחור עם לימון",
+      "description": "شاي أسود مع ليمون - תה שחור עם לימון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أعشاب - תה צמחים",
+      "description": "شاي أعشاب - תה צמחים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي بابونج - תה קמומיל",
+      "description": "شاي بابونج - תה קמומיל",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي الميرمية - תה מרווה",
+      "description": "شاي الميرمية - תה מרווה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي اليانسون - תה אניס",
+      "description": "شاي اليانسون - תה אניס",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي القرفة - תה קינמון",
+      "description": "شاي القرفة - תה קינמון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي الكركديه - תה קרקדה",
+      "description": "شاي الكركديه - תה קרקדה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي المليسة - תה מליסה",
+      "description": "شاي المليسة - תה מליסה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي الزعتر - תה זעתר",
+      "description": "شاي الزعتر - תה זעתר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي المرمرية - תה מרווה",
+      "description": "شاي المرمرية - תה מרווה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي بالنعناع - תה עם נענע",
+      "description": "شاي بالنعناع - תה עם נענע",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي الزهورات - תה זוהרות",
+      "description": "شاي الزهورات - תה זוהרות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي الزنجبيل - תה ג'ינג'ר",
+      "description": "شاي الزنجبيل - תה ג'ינג'ר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي بالتفاح - תה תפוח",
+      "description": "شاي بالتفاح - תה תפוח",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي بالقرفة - תה קינמון",
+      "description": "شاي بالقرفة - תה קינמון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي باليانسون - תה אניס",
+      "description": "شاي باليانسون - תה אניס",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي الكركديه - תה קרקדה",
+      "description": "شاي الكركديه - תה קרקדה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي المليسة - תה מליסה",
+      "description": "شاي المليسة - תה מליסה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي الأعشاب - תה צמחים",
+      "description": "شاي الأعشاب - תה צמחים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي مع زهورات - תה עם זוהרות",
+      "description": "شاي مع زهورات - תה עם זוהרות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي ليمون وزنجبيل - תה לימון וג'ינג'ר",
+      "description": "شاي ليمون وزنجبيل - תה לימון וג'ינג'ר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي الزهورات مع نعناع - תה זוהרות עם נענע",
+      "description": "شاي الزهورات مع نعناع - תה זוהרות עם נענע",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي بالأعشاب - תה עם צמחים",
+      "description": "شاي بالأعشاب - תה עם צמחים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أعشاب مع ليمون - תה צמחים עם לימון",
+      "description": "شاي أعشاب مع ليمون - תה צמחים עם לימון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر مع ليمون - תה ירוק עם לימון",
+      "description": "شاي أخضر مع ليمون - תה ירוק עם לימון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر مع قرفة - תה ירוק עם קינמון",
+      "description": "شاي أخضر مع قرفة - תה ירוק עם קינמון",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر مع يانسون - תה ירוק עם אניס",
+      "description": "شاي أخضر مع يانسون - תה ירוק עם אניס",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر مع كركديه - תה ירוק עם קרקדה",
+      "description": "شاي أخضر مع كركديه - תה ירוק עם קרקדה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر مع مليسة - תה ירוק עם מליסה",
+      "description": "شاي أخضر مع مليسة - תה ירוק עם מליסה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر مع زعتر - תה ירוק עם זעתר",
+      "description": "شاي أخضر مع زعتر - תה ירוק עם זעתר",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر مع أعشاب - תה ירוק עם צמחים",
+      "description": "شاي أخضر مع أعشاب - תה ירוק עם צמחים",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر مع زهورات - תה ירוק עם זוהרות",
+      "description": "شاي أخضر مع زهورات - תה ירוק עם זוהרות",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر مع بابونج - תה ירוק עם קמומיל",
+      "description": "شاي أخضر مع بابونج - תה ירוק עם קמומיל",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي أخضر مع مرمرية - תה ירוק עם מרווה",
+      "description": "شاي أخضر مع مرمرية - תה ירוק עם מרווה",
+      "analysis": {
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شنيتسل-שניצל",
+      "description": "شنيتسل-שניצל",
+      "analysis": {
+        "name": "شنيتسل-שניצל",
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "nocontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "برجيت - פרגית",
+      "description": "برجيت - פרגית",
+      "analysis": {
+        "name": "برجيت - פרגית",
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "nocontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "فيليه - פילה",
+      "description": "فيليه - פילה",
+      "analysis": {
+        "name": "فيليه - פילה",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "nocontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "انتركوت - אנטרקوت",
+      "description": "انتركوت - אנטרקوت",
+      "analysis": {
+        "name": "انتركوت - אנטרקوت",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "nocontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "تسلعوت - צלעות",
+      "description": "تسلعوت - צלעות",
+      "analysis": {
+        "name": "تسلعوت - צלעות",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "nocontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كباب - קבב",
+      "description": "كباب - קבב",
+      "analysis": {
+        "name": "كباب - קבב",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "nocontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "برجر - בורגר",
+      "description": "برجر - בורגר",
+      "analysis": {
+        "name": "برجر - בורגר",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "nocontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سوشي كباب - סושי קבב",
+      "description": "سوشי كباب - סושי קבב",
+      "analysis": {
+        "name": "سوشي كباب - סושי קבב",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "nocontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كرسبي اوتار - קריספי אוטר",
+      "description": "كرسبي اوتار - קריספי אוטר",
+      "analysis": {
+        "name": "كرسبي اوتار - קריספי אוטר",
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "nocontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "اصابع زعتر - מקלות זעתר",
+      "description": "اصابع زعتر - מקלות زעתר",
+      "analysis": {
+        "name": "اصابع زعتر - מקלות זעתר",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "nocontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شيبس صغير - צ'יפס קטן",
+      "description": "شيبس صغير - צ'יפס קטן",
+      "analysis": {
+        "name": "شيبس صغير - צ'יפס קטן",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "nocontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "بلاطة اوتار كبير - צלחת אוותאר גדולה",
+      "description": "كبه, اصابع موتزاريلا, اصابع زعتر, حلقات بصل, بطاطا بيريه, سيجاريوت, بوتيتو",
+      "analysis": {
+        "name": "بلاطة اوتار كبير - צלחת אוותאר גדולה",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "nocontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "تورتيلا شنيتسل - טורטיה שניצל",
+      "description": "تورتيلا شنيتسل - טורטיה שניצל",
+      "analysis": {
+        "name": "تورتيلا شنيتسل - טورטיה שניצל",
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "nocontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "تورتيلا دجاج - טורטיה עוף",
+      "description": "تورتيلا دجاج - טורטיה עוף",
+      "analysis": {
+        "name": "تورتيلا دجاج - טورטיה עוף",
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "nocontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "رافيولي - רביולי",
+      "description": "رافيولي - רביולי",
+      "analysis": {
+        "name": "رافيولي - רביولي",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "nocontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطة بريميوم",
+      "description": "سلطة بريميوم",
+      "analysis": {
+        "name": "سلطة بريميوم",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "فيتوتشيني - פטוצ'יני",
+      "description": "فيتوتشيني - פטוצ'יני",
+      "analysis": {
+        "name": "فيتوتشيني - פטוצ'יני",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "باستا بيني - פסטה פנה",
+      "description": "باستا بيني - פסטה פנה",
+      "analysis": {
+        "name": "باستا بيني - פסטה פנה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "فوكاتشا - פוקצ'ה",
+      "description": "فوكاتشا - פוקצ'ה",
+      "analysis": {
+        "name": "فوكاتشا - פוקצ'ה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "بيتسا - פיצה",
+      "description": "بيتسا - פיצה",
+      "analysis": {
+        "name": "بيتسا - פיצה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "سلطة يونانية - סלט יווני",
+      "description": "سلطة يونانية - سלט יווני",
+      "analysis": {
+        "name": "سلطة يونانية - סלט יווני",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "سلطة فتوش - סלט פאטוש",
+      "description": "سلطة فتوش - סלט פאטוש",
+      "analysis": {
+        "name": "سلطة فتوش - סלט פאטוש",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "سلطة التبولة - סלט טבולה",
+      "description": "سلطة التبولة - سלט טבולה",
+      "analysis": {
+        "name": "سلطة التبولة - סלט טבולה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "سلطة عربية - סלט ירקות",
+      "description": "سلطة عربية - סלט ירקות",
+      "analysis": {
+        "name": "سلطة عربية - סלט ירקות",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "جرجير - סלט גרגיר",
+      "description": "جرجير - סלט גרגיר",
+      "analysis": {
+        "name": "جرجير - סלט גרגיר",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "حلومي - סלט חלومي",
+      "description": "حلومي - سלט חלומי",
+      "analysis": {
+        "name": "حلومي - סלט חלومي",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "جمبري مقلي - שרימפס מטוגן",
+      "description": "جمبري مقلي - שרימפס מטוגן",
+      "analysis": {
+        "name": "جمبري مقلي - שרימפס מטוגן",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "جمبري مطبوخ - שרימפס מבושל",
+      "description": "جمبري مطبوخ - שרימפס מבושל",
+      "analysis": {
+        "name": "جمبري مطبوخ - שרימפס מבושל",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "كريب - קרפ",
+      "description": "كريب - קרפ",
+      "analysis": {
+        "name": "كريب - קרפ",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "بانكيك - פנקייק",
+      "description": "بانكيك - פנקייק",
+      "analysis": {
+        "name": "بانكيك - פנקייק",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "كعكه تفاح - עוגת תפוחים",
+      "description": "كعكه تفاح - עוגת תפוחים",
+      "analysis": {
+        "name": "كعكه تفاح - עוגת תפוחים",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "سوفليه - סופלה",
+      "description": "سوفليه - סופלה",
+      "analysis": {
+        "name": "سوفليه - סופלה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "كعكة البسكويت - עוגת ביסקוויט",
+      "description": "كعكة البسكويت - עוגת ביסקוויט",
+      "analysis": {
+        "name": "كعكة البسكويت - עוגת ביסקוויט",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "كريم بروليه - קרם ברולה",
+      "description": "كريم بروليه - קרם ברולה",
+      "analysis": {
+        "name": "كريم بروليه - קרם ברולה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "فشافيش - פשאפיש",
+      "description": "فشافيش - פשאפיש",
+      "analysis": {
+        "name": "فشافيش - פשאפיש",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "سوشي أوريو - סושי אוראו",
+      "description": "سوشي أوريو - סושי אוראו",
+      "analysis": {
+        "name": "سوشי أوريو - סושי אוראו",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "كوكيز اوتار - עוגיות אוטר",
+      "description": "كوكيز اوتار - עוגיות אוטר",
+      "analysis": {
+        "name": "كوكيز اوتار - עוגיות אוטר",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "كوكا كولا - קוקה קולה",
+      "description": "كوكا كولا - קוקה كולה",
+      "analysis": {
+        "name": "كوكا كولا - קוקה كולה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "كولا زيرو - קולה זירו",
+      "description": "كولا زيرو - קולה זירו",
+      "analysis": {
+        "name": "كولا زيرو - קולה זירו",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "XL",
+      "description": "XL",
+      "analysis": {
+        "name": "XL",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "XL ZERO",
+      "description": "XL ZERO",
+      "analysis": {
+        "name": "XL ZERO",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "تفاح",
+      "description": "تفاح",
+      "analysis": {
+        "name": "تفاح",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "اجنحه دجاج مقليه - כנפי עוף מטוגנות",
+      "description": "اجنحه دجاج مقليه - כנפי עוף מטוגנות",
+      "analysis": {
+        "name": "اجنحه دجاج مقليه - כנפי עוף מטוגנות",
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "أصابع موتزاريلا - אצבעות מוצרילה",
+      "description": "أصابع موتزاريلا - אצבעות מוצרילה",
+      "analysis": {
+        "name": "أصابع موتزاريلا - אצבעות מוצרילה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "كبه - קיבה",
+      "description": "كبه - קיבה",
+      "analysis": {
+        "name": "كبه - קיבה",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "عرايس لحمه عجل",
+      "description": "عرايس لحمه عجل",
+      "analysis": {
+        "name": "عرايس لحمه عجل",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "سلطه القيصر - סלט קיסר",
+      "description": "سلطه القيصر - סלט קיסר",
+      "analysis": {
+        "name": "سلطه القيصر - סלט קיסר",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "سلطه أوتار - סלט אוותאר",
+      "description": "سلطه أوتار - سלט אוותאר",
+      "analysis": {
+        "name": "سلطه أوتار - סלט אוותאר",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "بابا غنوج بالجوز - באבא גנוש עם אגוזי מלך",
+      "description": "بابا غنوج بالجوز - באבא גנוש עם אגוזי מלך",
+      "analysis": {
+        "name": "بابا غنوج بالجوز - באבא גנוש עם אגוזי מלך",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "حمص - חומוס",
+      "description": "حمص - חומוס",
+      "analysis": {
+        "name": "حمص - חומוס",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "متبل",
+      "description": "متبل",
+      "analysis": {
+        "name": "متبل",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "باذنجان بطحنيه - חציל עם טחינה",
+      "description": "باذنجان بطحنيه - חציל עם טחינה",
+      "analysis": {
+        "name": "باذنجان بطحنيه - חציל עם טחינה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "سلمون مشوي - סלמון צלוי",
+      "description": "سلمون مشوي - סלמון צלוי",
+      "analysis": {
+        "name": "سلمون مشوي - סלמון צלוי",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "كلماري - קלמרי",
+      "description": "كلماري - קלמרי",
+      "analysis": {
+        "name": "كلماري - קלמרי",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "صدف - צֶדֶפות",
+      "description": "صدف - צֶדֶפות",
+      "analysis": {
+        "name": "صدف - צֶדֶפות",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "شريميس كلماري - שרימיס קלמרי",
+      "description": "شريميس كلماري - שרימיס קלמרי",
+      "analysis": {
+        "name": "شريميس كلماري - שרימיס קלמרי",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "صدر دجاج - חֲזֵה עוֹף",
+      "description": "صدر دجاج - חֲזֵה עוֹף",
+      "analysis": {
+        "name": "صدر دجاج - חֲזֵה עוֹף",
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "شنيتسل - שׁנִיצֶל",
+      "description": "شنيتسل - שׁנִיצֶל",
+      "analysis": {
+        "name": "شنيتسل - שׁנִיצֶל",
+        "containsMeat": false,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "بورجر - המבורגר",
+      "description": "بورجر - המבורגר",
+      "analysis": {
+        "name": "بورجر - המבורגר",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "باستا مع بندورة - פסטה עם עגבניות",
+      "description": "باستا مع بندورة - פסטה עם עגבניות",
+      "analysis": {
+        "name": "باستا مع بندورة - פסטה עם עגבניות",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "بورجر كريسبي - המבורגר קריספי",
+      "description": "بورجر كريسبي - המבורגר קריספי",
+      "analysis": {
+        "name": "بورجر كريسبي - המבורגר קריספי",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "منسف أوتار - מנסאף אוותאר",
+      "description": "منسف أوتار - מנסאף אוותאר",
+      "analysis": {
+        "name": "منسف أوتار - מנסאף אוותאר",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "بيف سترغنوف - בקר סטרוגנוף",
+      "description": "بيف سترغنوف - בקר סטרוגנוף",
+      "analysis": {
+        "name": "بيف سترغنوف - בקר סטרוגנוף",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "كرنفال مشاوي صغير - קרנבל ברביקיו קטן",
+      "description": "كرنفال مشاوي صغير - קרנבל ברביקיו קטן",
+      "analysis": {
+        "name": "كرنفال مشاوي صغير - קרנבל ברביקיו קטן",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "كرنفال بحري - קרנבל הים",
+      "description": "كرنفال بحري - קרנבל הים",
+      "analysis": {
+        "name": "كرنفال بحري - קרנבל הים",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "كرنفال مشاوي كبير - קרנבל גרילים גדול",
+      "description": "كرنفال مشاوي كبير - קרנבל גרילים גדול",
+      "analysis": {
+        "name": "كرنفال مشاوي كبير - קרנבל גרילים גדול",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "isVegetarian": false,
+        "isVegan": false,
+        "nocontainsGluten": false
+      }
+    },
+    {
+      "name": "جروس - גרוס",
+      "description": "جروس - גרוס",
+      "analysis": {
+        "name": "جروس - גרוס",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "ليمونادا - לִימוֹנָדָה",
+      "description": "ليمونادا - לִימוֹנָדָה",
+      "analysis": {
+        "name": "ليمونادا - לִימוֹנָדָה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "برتقال طبيعي",
+      "description": "برتقال طبيعي",
+      "analysis": {
+        "name": "برتقال طبيعي",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "باسيفلورا - פסיפלורה",
+      "description": "باسيفلورا - פסיפלורה",
+      "analysis": {
+        "name": "باسيفلورا - פסיפלורה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "موخيتو - מוחיטו",
+      "description": "موخيتو - מוחיטו",
+      "analysis": {
+        "name": "موخيتو - מוחיטו",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "ايس شوكولاته - אייס שוקולד",
+      "description": "ايس شوكولاته - אייס שוקולד",
+      "analysis": {
+        "name": "ايس شوكولاته - אייס שוקולד",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "ايس مانجا - אייס מנגה",
+      "description": "ايس مانجا - أייס מנغا",
+      "analysis": {
+        "name": "ايس مانجا - أייס מנغا",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "ايس فراوله - אייס תותים",
+      "description": "ايس فراوله - أייס תותים",
+      "analysis": {
+        "name": "ايس فراوله - أייס תותים",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "ايس كافيه - אייס קפה",
+      "description": "ايس كافيه - אייס קפה",
+      "analysis": {
+        "name": "ايس كافيه - אייס كפה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "ايس فانيل - אייס וניל",
+      "description": "ايس فانيل - أייס וניל",
+      "analysis": {
+        "name": "ايس فانيل - אייס וניל",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "سحلب - סחלב",
+      "description": "سحلب - סחלב",
+      "analysis": {
+        "name": "سحلب - סחלב",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": false,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "قهوة عربيه - كפה ערבי",
+      "description": "قهوة عربيه - كפה ערבי",
+      "analysis": {
+        "name": "قهوة عربيه - كפה ערבי",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "شاي - תֵה",
+      "description": "شاي - תֵה",
+      "analysis": {
+        "name": "شاي - תֵה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "isVegetarian": true,
+        "isVegan": true,
+        "nocontainsGluten": true
+      }
+    },
+    {
+      "name": "Seafood Bag with Rice",
+      "description": "",
+      "analysis": {
+        "name": "Seafood Bag with Rice",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "شكشوكة - שקשוקה",
+      "description": "",
+      "analysis": {
+        "name": "شكشوكة - שקשוקה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Soda",
+      "description": "",
+      "analysis": {
+        "name": "Soda",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شيبس كبير - צ'יפס גדול",
+      "description": "",
+      "analysis": {
+        "name": "شيبس كبير - צ'יפס גדול",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "نودلز - נודלז",
+      "description": "",
+      "analysis": {
+        "name": "نودلز - נודלז",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "دينيس - דניס",
+      "description": "",
+      "analysis": {
+        "name": "دينيس - דניס",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كيكه الجبن - עוגת גבִינה",
+      "description": "",
+      "analysis": {
+        "name": "كيكه الجبن - עוגת גבִינה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Fanta",
+      "description": "",
+      "analysis": {
+        "name": "Fanta",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "lemonade",
+      "description": "",
+      "analysis": {
+        "name": "lemonade",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "small water",
+      "description": "",
+      "analysis": {
+        "name": "small water",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "بلاطة اوتار صغيرة - צלחת אוותאר קטנה",
+      "description": "",
+      "analysis": {
+        "name": "بلاطة اوتار صغيرة - צלחת אוותאר קטנה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "חביתה אישית לארוחת בוקר",
+      "description": "",
+      "analysis": {
+        "name": "חביתה אישית לארוחת בוקר",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "One Million Dollar Salad",
+      "description": "",
+      "analysis": {
+        "name": "One Million Dollar Salad",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "بطيخ نعنع - אבטיח מנטה",
+      "description": "",
+      "analysis": {
+        "name": "بطيخ نعنع - אבטיח מנטה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "bar",
+      "description": "",
+      "analysis": {
+        "name": "bar",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Grill",
+      "description": "",
+      "analysis": {
+        "name": "Grill",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Bar grills",
+      "description": "",
+      "analysis": {
+        "name": "Bar grills",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "argela",
+      "description": "",
+      "analysis": {
+        "name": "argela",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Meat tortellini with cream sauce",
+      "description": "",
+      "analysis": {
+        "name": "Meat tortellini with cream sauce",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "cooked shrimp",
+      "description": "",
+      "analysis": {
+        "name": "cooked shrimp",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Schnitzel plate",
+      "description": "",
+      "analysis": {
+        "name": "Schnitzel plate",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Chicken breast with vegetables and rice",
+      "description": "",
+      "analysis": {
+        "name": "Chicken breast with vegetables and rice",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Meat tortellini with tomato sauce",
+      "description": "",
+      "analysis": {
+        "name": "Meat tortellini with tomato sauce",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Fanta Berry",
+      "description": "",
+      "analysis": {
+        "name": "Fanta Berry",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Chicken breast meal in mushroom cream",
+      "description": "",
+      "analysis": {
+        "name": "Chicken breast meal in mushroom cream",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Chicken Stroganoff",
+      "description": "",
+      "analysis": {
+        "name": "Chicken Stroganoff",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "large Greek salad",
+      "description": "",
+      "analysis": {
+        "name": "large Greek salad",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Penne Pasta with Pizza Sauce",
+      "description": "",
+      "analysis": {
+        "name": "Penne Pasta with Pizza Sauce",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Fettuccine Schment",
+      "description": "",
+      "analysis": {
+        "name": "Fettuccine Schment",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Cheesecake Crustless",
+      "description": "",
+      "analysis": {
+        "name": "Cheesecake Crustless",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Mojito XL",
+      "description": "",
+      "analysis": {
+        "name": "Mojito XL",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Mojito Soda",
+      "description": "",
+      "analysis": {
+        "name": "Mojito Soda",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Red Velvet Cake",
+      "description": "",
+      "analysis": {
+        "name": "Red Velvet Cake",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Basket",
+      "description": "",
+      "analysis": {
+        "name": "Basket",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Ferrero Cake",
+      "description": "",
+      "analysis": {
+        "name": "Ferrero Cake",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Baked Cheese and Berry Cake",
+      "description": "",
+      "analysis": {
+        "name": "Baked Cheese and Berry Cake",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Cheesecake with Crumbs",
+      "description": "",
+      "analysis": {
+        "name": "Cheesecake with Crumbs",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Tiramisu Cake",
+      "description": "",
+      "analysis": {
+        "name": "Tiramisu Cake",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Twister Loacker",
+      "description": "",
+      "analysis": {
+        "name": "Twister Loacker",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Twister Kupfat Blueberries",
+      "description": "",
+      "analysis": {
+        "name": "Twister Kupfat Blueberries",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Twister Lotus Caramel",
+      "description": "",
+      "analysis": {
+        "name": "Twister Lotus Caramel",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Twister Red Velvet",
+      "description": "",
+      "analysis": {
+        "name": "Twister Red Velvet",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Croissant",
+      "description": "",
+      "analysis": {
+        "name": "Croissant",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Crack Pie",
+      "description": "",
+      "analysis": {
+        "name": "Crack Pie",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Umm Ali",
+      "description": "",
+      "analysis": {
+        "name": "Umm Ali",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Rugelach",
+      "description": "",
+      "analysis": {
+        "name": "Rugelach",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Al-Fakhours moss",
+      "description": "",
+      "analysis": {
+        "name": "Al-Fakhours moss",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Fashafish",
+      "description": "",
+      "analysis": {
+        "name": "Fashafish",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Large Yogurt",
+      "description": "",
+      "analysis": {
+        "name": "Large Yogurt",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "מבחר סלט לסועד",
+      "description": "",
+      "analysis": {
+        "name": "מבחר סלט לסועד",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "מבחר סלט לסועד בלי מנה",
+      "description": "",
+      "analysis": {
+        "name": "מבחר סלט לסועד בלי מנה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "פטריות ממלאות",
+      "description": "",
+      "analysis": {
+        "name": "פטריות ממלאות",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطه عربيه",
+      "description": "",
+      "analysis": {
+        "name": "سلطه عربيه",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "صينية كبدة دجاج",
+      "description": "",
+      "analysis": {
+        "name": "صينية كبدة دجاج",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "صينية فيليه عجل",
+      "description": "",
+      "analysis": {
+        "name": "صينية فيليه عجل",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "موزة عجل",
+      "description": "",
+      "analysis": {
+        "name": "موزة عجل",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "تتاكي سنته",
+      "description": "",
+      "analysis": {
+        "name": "تتاكي سنته",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ارنشيني",
+      "description": "",
+      "analysis": {
+        "name": "ارنشيني",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "צלעות טלה טיבון",
+      "description": "",
+      "analysis": {
+        "name": "צלעות טלה טיבון",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "מחבת פילה עגל עם חמאה בלגית",
+      "description": "",
+      "analysis": {
+        "name": "מחבת פילה עגל עם חמאה בלגית",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "טומהוק",
+      "description": "",
+      "analysis": {
+        "name": "טומהוק",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "צלעות טלה קטרים",
+      "description": "",
+      "analysis": {
+        "name": "צלעות טלה קטרים",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "שיפודים כבש",
+      "description": "",
+      "analysis": {
+        "name": "שיפודים כבש",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "קלמארי",
+      "description": "",
+      "analysis": {
+        "name": "קלמארי",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "שרימפס קלמרי",
+      "description": "",
+      "analysis": {
+        "name": "שרימפס קלמרי",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "סלמון בתנור",
+      "description": "",
+      "analysis": {
+        "name": "סלמון בתנור",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "טאג'ין דגים",
+      "description": "",
+      "analysis": {
+        "name": "טאג'ין דגים",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "דגי ים",
+      "description": "",
+      "analysis": {
+        "name": "דגי ים",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "צדפות",
+      "description": "",
+      "analysis": {
+        "name": "צדפות",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ראשי קלמארי",
+      "description": "",
+      "analysis": {
+        "name": "ראשי קלמארי",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "סלמון פרמיום",
+      "description": "",
+      "analysis": {
+        "name": "סלמון פרמיום",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "שרימפס קריסטל",
+      "description": "",
+      "analysis": {
+        "name": "שרימפס קריסטל",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "טורנדו רוסיני",
+      "description": "",
+      "analysis": {
+        "name": "טורנדו רוסיני",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "כנאפה של האווז",
+      "description": "",
+      "analysis": {
+        "name": "כנאפה של האווז",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ספגטי שרימפס",
+      "description": "",
+      "analysis": {
+        "name": "ספגטי שרימפס",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "רביולי בטטה",
+      "description": "",
+      "analysis": {
+        "name": "רביולי בטטה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "בורגר צבעוני",
+      "description": "",
+      "analysis": {
+        "name": "בורגר צבעוני",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "שניצלונים",
+      "description": "",
+      "analysis": {
+        "name": "שניצלונים",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كتف خروف",
+      "description": "",
+      "analysis": {
+        "name": "كتف خروف",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "جريل",
+      "description": "",
+      "analysis": {
+        "name": "جريل",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "بار",
+      "description": "",
+      "analysis": {
+        "name": "بار",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "مشاوي بار",
+      "description": "",
+      "analysis": {
+        "name": "مشاوي بار",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "פטריות מוקפצות",
+      "description": "",
+      "analysis": {
+        "name": "פטריות מוקפצות",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "منسف دولكس بريميوم",
+      "description": "",
+      "analysis": {
+        "name": "منسف دولكس بريميوم",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "فخارة لحم",
+      "description": "",
+      "analysis": {
+        "name": "فخارة لحم",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطة فتوش",
+      "description": "",
+      "analysis": {
+        "name": "سلطة فتوش",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سلطة تبولة",
+      "description": "",
+      "analysis": {
+        "name": "سلطة تبولة",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "اويستر",
+      "description": "",
+      "analysis": {
+        "name": "اويستر",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سيفيتشي",
+      "description": "",
+      "analysis": {
+        "name": "سيفيتشي",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "סטייק אנטריקוט",
+      "description": "",
+      "analysis": {
+        "name": "סטייק אנטריקוט",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "סטייק טיבון",
+      "description": "",
+      "analysis": {
+        "name": "סטייק טיבון",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كباب",
+      "description": "",
+      "analysis": {
+        "name": "كباب",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "نصف كلماري",
+      "description": "",
+      "analysis": {
+        "name": "نصف كلماري",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "דיו פירות ים",
+      "description": "",
+      "analysis": {
+        "name": "דיו פירות ים",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلمون في الفرن",
+      "description": "",
+      "analysis": {
+        "name": "سلمون في الفرن",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سمك مقلي",
+      "description": "",
+      "analysis": {
+        "name": "سمك مقلي",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كنافة الجمبري",
+      "description": "",
+      "analysis": {
+        "name": "كنافة الجمبري",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطعون",
+      "description": "",
+      "analysis": {
+        "name": "سلطعون",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "فيليه لبراك",
+      "description": "",
+      "analysis": {
+        "name": "فيليه لبراك",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "لوكوس",
+      "description": "",
+      "analysis": {
+        "name": "لوكوس",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "برج بريميوم",
+      "description": "",
+      "analysis": {
+        "name": "برج بريميوم",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "فيليه دبي الفاخر",
+      "description": "",
+      "analysis": {
+        "name": "فيليه دبي الفاخر",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "بيني بريميوم",
+      "description": "",
+      "analysis": {
+        "name": "بيني بريميوم",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سباغيتي الجمبري",
+      "description": "",
+      "analysis": {
+        "name": "سباغيتي الجمبري",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "شنتيسل",
+      "description": "",
+      "analysis": {
+        "name": "شنتيسل",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سباغيتي الطماطم",
+      "description": "",
+      "analysis": {
+        "name": "سباغيتي الطماطم",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "رقبة خروف",
+      "description": "",
+      "analysis": {
+        "name": "رقبة خروف",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "تورتيليني لحمة بصوص الروزيه",
+      "description": "",
+      "analysis": {
+        "name": "تورتيليني لحمة بصوص الروزيه",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كوكا كولا زجاجة",
+      "description": "",
+      "analysis": {
+        "name": "كوكا كولا زجاجة",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "ماء",
+      "description": "",
+      "analysis": {
+        "name": "ماء",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "اصابع حلومي",
+      "description": "",
+      "analysis": {
+        "name": "اصابع حلومي",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "طبق صدر دجاج",
+      "description": "",
+      "analysis": {
+        "name": "طبق صدر دجاج",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "طبق شرائح انتريكوت",
+      "description": "",
+      "analysis": {
+        "name": "طبق شرائح انتريكوت",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "باستا بيني بصلصة البيتزا",
+      "description": "",
+      "analysis": {
+        "name": "باستا بيني بصلصة البيتزا",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ميكس مقالي صغير",
+      "description": "",
+      "analysis": {
+        "name": "ميكس مقالي صغير",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "طبق صدر الدجاج وكريمة الفطر",
+      "description": "",
+      "analysis": {
+        "name": "طبق صدر الدجاج وكريمة الفطر",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "وجبة صدر دجاج صحية",
+      "description": "",
+      "analysis": {
+        "name": "وجبة صدر دجاج صحية",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كرات بطاطا صغير",
+      "description": "",
+      "analysis": {
+        "name": "كرات بطاطا صغير",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "هوم فرايز",
+      "description": "",
+      "analysis": {
+        "name": "هوم فرايز",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "طبق شريمبس 10 قطع",
+      "description": "",
+      "analysis": {
+        "name": "طبق شريمبس 10 قطع",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "بيتسا",
+      "description": "",
+      "analysis": {
+        "name": "بيتسا",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطة صدر الدجاج",
+      "description": "",
+      "analysis": {
+        "name": "سلطة صدر الدجاج",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطة كبريزا",
+      "description": "",
+      "analysis": {
+        "name": "سلطة كبريزا",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطة التبولة",
+      "description": "",
+      "analysis": {
+        "name": "سلطة التبولة",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شاي",
+      "description": "",
+      "analysis": {
+        "name": "شاي",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "جبيتا شنيتسل",
+      "description": "",
+      "analysis": {
+        "name": "جبيتا شنيتسل",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سوفليه",
+      "description": "",
+      "analysis": {
+        "name": "سوفليه",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "برجر كريمة وفطر",
+      "description": "",
+      "analysis": {
+        "name": "برجر كريمة وفطر",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "برجر صدر دجاج",
+      "description": "",
+      "analysis": {
+        "name": "برجر صدر دجاج",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "فيتوتشيني بندورة",
+      "description": "",
+      "analysis": {
+        "name": "فيتوتشيني بندورة",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "رافيولي جبنة بصوص البندورة",
+      "description": "",
+      "analysis": {
+        "name": "رافيولي جبنة بصوص البندورة",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "بابارديلا شريمبس",
+      "description": "",
+      "analysis": {
+        "name": "بابارديلا شريمبس",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "رادياتوري بصوص الروزيه",
+      "description": "",
+      "analysis": {
+        "name": "رادياتوري بصوص الروزيه",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "فيتوتشيني روزيه",
+      "description": "",
+      "analysis": {
+        "name": "فيتوتشيني روزيه",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سباغيتي بندورة",
+      "description": "",
+      "analysis": {
+        "name": "سباغيتي بندورة",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "باستا بيني بصوص البندورة",
+      "description": "",
+      "analysis": {
+        "name": "باستا بيني بصوص البندورة",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "تورتيليني فطر بصوص البندورة",
+      "description": "",
+      "analysis": {
+        "name": "تورتيليني فطر بصوص البندورة",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "توت بنانا",
+      "description": "",
+      "analysis": {
+        "name": "توت بنانا",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "فانتا",
+      "description": "",
+      "analysis": {
+        "name": "فانتا",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سبرايت زيرو",
+      "description": "",
+      "analysis": {
+        "name": "سبرايت زيرو",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "شنيتسل اطفال",
+      "description": "",
+      "analysis": {
+        "name": "شنيتسل اطفال",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "نسكافيه",
+      "description": "",
+      "analysis": {
+        "name": "نسكافيه",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "قهوة وبوظة",
+      "description": "",
+      "analysis": {
+        "name": "قهوة وبوظة",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كولا",
+      "description": "",
+      "analysis": {
+        "name": "كولا",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "أنتركيوت مشوي",
+      "description": "",
+      "analysis": {
+        "name": "أنتركيوت مشوي",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "رافيولي بطاطا",
+      "description": "",
+      "analysis": {
+        "name": "رافيولي بطاطا",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "فيلية بقر",
+      "description": "",
+      "analysis": {
+        "name": "فيلية بقر",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "رفيولي جبنة",
+      "description": "",
+      "analysis": {
+        "name": "رفيولي جبنة",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "مياه معدنية",
+      "description": "",
+      "analysis": {
+        "name": "مياه معدنية",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "عصير برزر",
+      "description": "",
+      "analysis": {
+        "name": "عصير برزر",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "ميلك شيك نوتيلا",
+      "description": "",
+      "analysis": {
+        "name": "ميلك شيك نوتيلا",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كريم بروليه",
+      "description": "",
+      "analysis": {
+        "name": "كريم بروليه",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كريب",
+      "description": "",
+      "analysis": {
+        "name": "كريب",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "خلطة شامية",
+      "description": "",
+      "analysis": {
+        "name": "خلطة شامية",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Love 66",
+      "description": "",
+      "analysis": {
+        "name": "Love 66",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطة القيصر مع دجاج",
+      "description": "",
+      "analysis": {
+        "name": "سلطة القيصر مع دجاج",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطة الحلومي",
+      "description": "",
+      "analysis": {
+        "name": "سلطة الحلومي",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "خبز فوكاتشا",
+      "description": "",
+      "analysis": {
+        "name": "خبز فوكاتشا",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "أدمامي",
+      "description": "",
+      "analysis": {
+        "name": "أدمامي",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "كرباتشيو بقر",
+      "description": "",
+      "analysis": {
+        "name": "كرباتشيو بقر",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "برجر",
+      "description": "",
+      "analysis": {
+        "name": "برجر",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "نودلز دجاج",
+      "description": "",
+      "analysis": {
+        "name": "نودلز دجاج",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سباچيتي مع كريمة الفطر",
+      "description": "",
+      "analysis": {
+        "name": "سباچيتي مع كريمة الفطر",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "أرنشيني مكسرات وريحان",
+      "description": "",
+      "analysis": {
+        "name": "أرنشيني مكسرات وريحان",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "بورجر أوها 150g",
+      "description": "",
+      "analysis": {
+        "name": "بورجر أوها 150g",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "تورتيلا تشيكن",
+      "description": "",
+      "analysis": {
+        "name": "تورتيلا تشيكن",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "أوها أطفال",
+      "description": "",
+      "analysis": {
+        "name": "أوها أطفال",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "XL 10",
+      "description": "",
+      "analysis": {
+        "name": "XL 10",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كوكا كولا زيرو",
+      "description": "",
+      "analysis": {
+        "name": "كوكا كولا زيرو",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "فتوش",
+      "description": "",
+      "analysis": {
+        "name": "فتوش",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "بورجر أوها 400g",
+      "description": "",
+      "analysis": {
+        "name": "بورجر أوها 400g",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "حلقات بصل",
+      "description": "",
+      "analysis": {
+        "name": "حلقات بصل",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "بيتزا L",
+      "description": "",
+      "analysis": {
+        "name": "بيتزا L",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كولا كبير",
+      "description": "",
+      "analysis": {
+        "name": "كولا كبير",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "بيتزا M",
+      "description": "",
+      "analysis": {
+        "name": "بيتزا M",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "بيتزا S",
+      "description": "",
+      "analysis": {
+        "name": "بيتزا S",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كولا زيرو كبير",
+      "description": "",
+      "analysis": {
+        "name": "كولا زيرو كبير",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Malawach Pizza",
+      "description": "",
+      "analysis": {
+        "name": "Malawach Pizza",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Grapes",
+      "description": "",
+      "analysis": {
+        "name": "Grapes",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Cola",
+      "description": "",
+      "analysis": {
+        "name": "Cola",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Ziva",
+      "description": "",
+      "analysis": {
+        "name": "Ziva",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ColaZero",
+      "description": "",
+      "analysis": {
+        "name": "ColaZero",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Pizza Medium",
+      "description": "",
+      "analysis": {
+        "name": "Pizza Medium",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "صحن حمص",
+      "description": "",
+      "analysis": {
+        "name": "صحن حمص",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "منسف برمويم",
+      "description": "",
+      "analysis": {
+        "name": "منسف برمويم",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطة حلومي",
+      "description": "",
+      "analysis": {
+        "name": "سلطة حلومي",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "بلاطة مقالي",
+      "description": "",
+      "analysis": {
+        "name": "بلاطة مقالي",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "مشكل لحمه",
+      "description": "",
+      "analysis": {
+        "name": "مشكل لحمه",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "שרוול פילה עגל מוגש עם חמאה",
+      "description": "",
+      "analysis": {
+        "name": "שרוול פילה עגל מוגש עם חמאה",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "חצי סרטן",
+      "description": "",
+      "analysis": {
+        "name": "חצי סרטן",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "חצי ראשי קלמארי",
+      "description": "",
+      "analysis": {
+        "name": "חצי ראשי קלמארי",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": true
+      }
+    }
+  ]
+}
