@@ -11,7 +11,7 @@ export function CategoryGrid({ onCategoryClick, selectedCompany, onItemClick, on
   const [categorySearchQuery, setCategorySearchQuery] = useState('');
   const [filteredItems, setFilteredItems] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
-  const { t, language } = useLanguage();
+const { t, language, isRTL } = useLanguage();
 
   useEffect(() => {
     if (selectedCompany) {
@@ -181,9 +181,14 @@ export function CategoryGrid({ onCategoryClick, selectedCompany, onItemClick, on
                   {category.items_count || category.items?.length || 0} {t('categories.items')}
                 </div>
               </div>
-              {selectedCategory?.id === category.id && (
-                <ArrowRight className="w-4 h-4 ml-2 animate-pulse" />
-              )}
+            {selectedCategory?.id === category.id && (
+  isRTL ? (
+    <ArrowRight className="w-4 h-4 mr-2 rotate-180 animate-pulse" />
+  ) : (
+    <ArrowRight className="w-4 h-4 ml-2 animate-pulse" />
+  )
+)}
+
             </button>
           ))}
         </div>
