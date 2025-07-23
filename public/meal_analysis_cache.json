@@ -6161,6 +6161,214 @@
         "isVegetarian": false,
         "isVegan": true
       }
+    },
+    {
+      "name": "ארוחת בוקר אישית שקשוקה",
+      "description": "",
+      "analysis": {
+        "name": "ארוחת בוקר אישית שקשוקה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Fattoush salad",
+      "description": "",
+      "analysis": {
+        "name": "Fattoush salad",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Big house salad",
+      "description": "",
+      "analysis": {
+        "name": "Big house salad",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Radiatori with rose sauce",
+      "description": "",
+      "analysis": {
+        "name": "Radiatori with rose sauce",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Mushroom tortellini with cheddar sauce",
+      "description": "",
+      "analysis": {
+        "name": "Mushroom tortellini with cheddar sauce",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Chicken breast with vegetables",
+      "description": "",
+      "analysis": {
+        "name": "Chicken breast with vegetables",
+        "containsMeat": true,
+        "containsChicken": true,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Halloumi salad",
+      "description": "",
+      "analysis": {
+        "name": "Halloumi salad",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Entrecote and mushroom dish",
+      "description": "",
+      "analysis": {
+        "name": "Entrecote and mushroom dish",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Tabbouleh",
+      "description": "",
+      "analysis": {
+        "name": "Tabbouleh",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Kebreza salad",
+      "description": "",
+      "analysis": {
+        "name": "Kebreza salad",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Fettuccine Rose",
+      "description": "",
+      "analysis": {
+        "name": "Fettuccine Rose",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Spaghetti Rose",
+      "description": "",
+      "analysis": {
+        "name": "Spaghetti Rose",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Radiatori with shement sauce",
+      "description": "",
+      "analysis": {
+        "name": "Radiatori with shement sauce",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Cheese ravioli with rose sauce",
+      "description": "",
+      "analysis": {
+        "name": "Cheese ravioli with rose sauce",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Entrecote salad",
+      "description": "",
+      "analysis": {
+        "name": "Entrecote salad",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Shrimp Pappardelle",
+      "description": "",
+      "analysis": {
+        "name": "Shrimp Pappardelle",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
     }
   ]
 }

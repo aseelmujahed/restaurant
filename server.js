@@ -52,26 +52,12 @@ async function askOpenAI(prompt) {
     });
 
     const content = completion.choices[0]?.message?.content || '';
-    const usage = completion.usage; 
-
-    const costPer1kPrompt = 0.0005;
-    const costPer1kCompletion = 0.0015;
-
-    const promptCost = (usage.prompt_tokens / 1000) * costPer1kPrompt;
-    const completionCost = (usage.completion_tokens / 1000) * costPer1kCompletion;
-    const totalCost = promptCost + completionCost;
-
-    return {
-      content,
-      tokens: usage,
-      cost: totalCost
-    };
+    return { content };
   } catch (error) {
     console.error('OpenAI API Error:', error);
     throw new Error(`OpenAI API Error: ${error.message}`);
   }
 }
-
 
 app.post('/api/ai-analyze-meals', async (req, res) => {
   const { meals } = req.body;
@@ -96,11 +82,10 @@ app.post('/api/ai-analyze-meals', async (req, res) => {
         mealsToAnalyze.push(meal);
       }
     }
+
     if (mealsToAnalyze.length > 10) {
       mealsToAnalyze = mealsToAnalyze.slice(0, 10);
     }
-
-
 
     let newAnalyses = [];
     if (mealsToAnalyze.length > 0) {
@@ -124,13 +109,14 @@ ${mealsToAnalyze.map(
 Return only the JSON array, nothing else.
 `;
 
-      const { content, tokens, cost } = await askOpenAI(prompt);
+      const { content } = await askOpenAI(prompt);
 
       const match = content.match(/\[[\s\S]*\]/);
       if (match) {
         newAnalyses = JSON.parse(match[0]);
         console.dir(newAnalyses, { depth: null });
       }
+
       for (let i = 0; i < mealsToAnalyze.length; i++) {
         const meal = mealsToAnalyze[i];
         const analysis = newAnalyses[i];
@@ -141,8 +127,8 @@ Return only the JSON array, nothing else.
         });
         analyzed.push(analysis);
       }
-      await saveCache(MEALS_CACHE_FILE, cache);
 
+      await saveCache(MEALS_CACHE_FILE, cache);
     }
 
     res.json({ analysis: analyzed });
@@ -153,5 +139,5 @@ Return only the JSON array, nothing else.
 });
 
 app.listen(3001, () => {
-  console.log("AI meal analyzer server running at http://localhost:3001 (using OpenAI)");
+  console.log("AI meal analyzer server running at http://localhost:3001");
 });
