@@ -231,11 +231,11 @@ export function PopularItems({ selectedCompany, onItemClick, onAddToCart, aiDiet
                     <span className="text-lg sm:text-2xl font-bold text-blue-800 ml-2">₪{item.price}</span>
                   </div>
 
-                  {item.description && (
+                  {/* {item.description && (
                     <p className="text-gray-800 mb-3 sm:mb-4 line-clamp-2 text-xs sm:text-sm">
                       {item.description}
                     </p>
-                  )}
+                  )} */}
 
                   <DietaryTags
                     foodName={item.name}

@@ -8,7 +8,7 @@ class AIDietaryAnalyzer {
 
     return items.filter(item => {
       const analysis = this.getItemAnalysis(item) || this.getFallbackAnalysis(item);
-      if (!analysis) return true; 
+      if (!analysis) return true;
 
       if (preferences.excludeMeat && analysis.containsMeat) return false;
       if (preferences.excludeChicken && analysis.containsChicken) return false;
@@ -76,16 +76,14 @@ class AIDietaryAnalyzer {
   }
 
   getItemAnalysis(item) {
-    const key = item.name.toLowerCase().trim();
-
+    const key = `${item.name.trim().toLowerCase()}-${(item.description || '').trim().toLowerCase()}`;
     return this.cache.get(key);
   }
 
   cacheItemAnalysis(item, analysis) {
-const key = item.name.toLowerCase().trim();
+    const key = `${item.name.trim().toLowerCase()}-${(item.description || '').trim().toLowerCase()}`;
     this.cache.set(key, analysis);
   }
-
   async analyzeItems(items) {
     const uncachedItems = items.filter(item => !this.getItemAnalysis(item));
 
@@ -138,7 +136,7 @@ const key = item.name.toLowerCase().trim();
 
       if (Array.isArray(data.meals)) {
         data.meals.forEach(entry => {
-          const key = entry.name.toLowerCase().trim();
+          const key = `${entry.name}-${entry.description || ''}`;
           this.cache.set(key, entry.analysis);
         });
         console.log('Loaded cache from static JSON file');

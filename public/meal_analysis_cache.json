@@ -2660,7 +2660,7 @@
         "containsMeat": false,
         "containsChicken": true,
         "containsFishSeafood": false,
-        "nocontainsGluten": false,
+        "notcontainsGluten": false,
         "isVegetarian": false,
         "isVegan": false
       }
@@ -2673,7 +2673,7 @@
         "containsMeat": false,
         "containsChicken": true,
         "containsFishSeafood": false,
-        "nocontainsGluten": true,
+        "notcontainsGluten": true,
         "isVegetarian": false,
         "isVegan": false
       }
@@ -2686,7 +2686,7 @@
         "containsMeat": true,
         "containsChicken": false,
         "containsFishSeafood": false,
-        "nocontainsGluten": true,
+        "notcontainsGluten": true,
         "isVegetarian": false,
         "isVegan": false
       }
@@ -2699,7 +2699,7 @@
         "containsMeat": true,
         "containsChicken": false,
         "containsFishSeafood": false,
-        "nocontainsGluten": true,
+        "notcontainsGluten": true,
         "isVegetarian": false,
         "isVegan": false
       }
@@ -2712,7 +2712,7 @@
         "containsMeat": true,
         "containsChicken": false,
         "containsFishSeafood": false,
-        "nocontainsGluten": true,
+        "notcontainsGluten": true,
         "isVegetarian": false,
         "isVegan": false
       }
@@ -2725,7 +2725,7 @@
         "containsMeat": true,
         "containsChicken": false,
         "containsFishSeafood": false,
-        "nocontainsGluten": true,
+        "notcontainsGluten": true,
         "isVegetarian": false,
         "isVegan": false
       }
@@ -2738,7 +2738,7 @@
         "containsMeat": true,
         "containsChicken": false,
         "containsFishSeafood": false,
-        "nocontainsGluten": false,
+        "notcontainsGluten": false,
         "isVegetarian": false,
         "isVegan": false
       }
@@ -2751,7 +2751,7 @@
         "containsMeat": true,
         "containsChicken": false,
         "containsFishSeafood": false,
-        "nocontainsGluten": true,
+        "notcontainsGluten": true,
         "isVegetarian": false,
         "isVegan": false
       }
@@ -2764,7 +2764,7 @@
         "containsMeat": false,
         "containsChicken": true,
         "containsFishSeafood": false,
-        "nocontainsGluten": false,
+        "notcontainsGluten": false,
         "isVegetarian": false,
         "isVegan": false
       }
@@ -2777,7 +2777,7 @@
         "containsMeat": false,
         "containsChicken": false,
         "containsFishSeafood": false,
-        "nocontainsGluten": false,
+        "notcontainsGluten": false,
         "isVegetarian": true,
         "isVegan": true
       }
@@ -2790,7 +2790,7 @@
         "containsMeat": false,
         "containsChicken": false,
         "containsFishSeafood": false,
-        "nocontainsGluten": true,
+        "notcontainsGluten": true,
         "isVegetarian": true,
         "isVegan": true
       }
@@ -2803,7 +2803,7 @@
         "containsMeat": true,
         "containsChicken": false,
         "containsFishSeafood": false,
-        "nocontainsGluten": false,
+        "notcontainsGluten": false,
         "isVegetarian": false,
         "isVegan": false
       }
@@ -2816,7 +2816,7 @@
         "containsMeat": false,
         "containsChicken": true,
         "containsFishSeafood": false,
-        "nocontainsGluten": false,
+        "notcontainsGluten": false,
         "isVegetarian": false,
         "isVegan": false
       }
@@ -2829,7 +2829,7 @@
         "containsMeat": false,
         "containsChicken": true,
         "containsFishSeafood": false,
-        "nocontainsGluten": false,
+        "notcontainsGluten": false,
         "isVegetarian": false,
         "isVegan": false
       }
@@ -2842,7 +2842,7 @@
         "containsMeat": false,
         "containsChicken": false,
         "containsFishSeafood": false,
-        "nocontainsGluten": false,
+        "notcontainsGluten": false,
         "isVegetarian": true,
         "isVegan": false
       }
@@ -2857,7 +2857,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -2870,7 +2870,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -2883,7 +2883,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -2896,7 +2896,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -2909,7 +2909,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -2922,7 +2922,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -2935,7 +2935,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -2948,7 +2948,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -2961,7 +2961,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -2974,7 +2974,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -2987,7 +2987,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3000,7 +3000,7 @@
         "containsFishSeafood": true,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3013,7 +3013,7 @@
         "containsFishSeafood": true,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3026,7 +3026,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3039,7 +3039,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3052,7 +3052,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3065,7 +3065,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3078,7 +3078,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3091,7 +3091,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3104,7 +3104,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3117,7 +3117,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3130,7 +3130,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3143,7 +3143,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3156,7 +3156,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3169,7 +3169,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3182,7 +3182,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3195,7 +3195,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3208,7 +3208,7 @@
         "containsFishSeafood": false,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3221,7 +3221,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3234,7 +3234,7 @@
         "containsFishSeafood": false,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3247,7 +3247,7 @@
         "containsFishSeafood": false,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3260,7 +3260,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3273,7 +3273,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3286,7 +3286,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3299,7 +3299,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3312,7 +3312,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3325,7 +3325,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3338,7 +3338,7 @@
         "containsFishSeafood": true,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3351,7 +3351,7 @@
         "containsFishSeafood": true,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3364,7 +3364,7 @@
         "containsFishSeafood": true,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3377,7 +3377,7 @@
         "containsFishSeafood": true,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3390,7 +3390,7 @@
         "containsFishSeafood": false,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3403,7 +3403,7 @@
         "containsFishSeafood": false,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3416,7 +3416,7 @@
         "containsFishSeafood": false,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3429,7 +3429,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3442,7 +3442,7 @@
         "containsFishSeafood": false,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3455,7 +3455,7 @@
         "containsFishSeafood": false,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3468,7 +3468,7 @@
         "containsFishSeafood": false,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3481,7 +3481,7 @@
         "containsFishSeafood": false,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3494,7 +3494,7 @@
         "containsFishSeafood": true,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3507,7 +3507,7 @@
         "containsFishSeafood": false,
         "isVegetarian": false,
         "isVegan": false,
-        "nocontainsGluten": false
+        "notcontainsGluten": false
       }
     },
     {
@@ -3520,7 +3520,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3533,7 +3533,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3546,7 +3546,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3559,7 +3559,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3572,7 +3572,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3585,7 +3585,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3598,7 +3598,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3611,7 +3611,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3624,7 +3624,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3637,7 +3637,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3650,7 +3650,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": false,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3663,7 +3663,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3676,7 +3676,7 @@
         "containsFishSeafood": false,
         "isVegetarian": true,
         "isVegan": true,
-        "nocontainsGluten": true
+        "notcontainsGluten": true
       }
     },
     {
@@ -3694,7 +3694,7 @@
     },
     {
       "name": "شكشوكة - שקשוקה",
-      "description": "",
+      "description": "شكشوكة - שקשוקה",
       "analysis": {
         "name": "شكشوكة - שקשוקה",
         "containsMeat": false,
@@ -3720,7 +3720,7 @@
     },
     {
       "name": "شيبس كبير - צ'יפס גדול",
-      "description": "",
+      "description": "شيبس كبير - צ'יפס גדול",
       "analysis": {
         "name": "شيبس كبير - צ'יפס גדול",
         "containsMeat": false,
@@ -3733,7 +3733,7 @@
     },
     {
       "name": "نودلز - נודלז",
-      "description": "",
+      "description": "نودلز - נודלז",
       "analysis": {
         "name": "نودلز - נודלז",
         "containsMeat": false,
@@ -3746,7 +3746,7 @@
     },
     {
       "name": "دينيس - דניס",
-      "description": "",
+      "description": "دينيس - דניס",
       "analysis": {
         "name": "دينيس - דניס",
         "containsMeat": false,
@@ -3759,7 +3759,7 @@
     },
     {
       "name": "كيكه الجبن - עוגת גבִינה",
-      "description": "",
+      "description": "كيكه الجبن - עוגת גבִינה",
       "analysis": {
         "name": "كيكه الجبن - עוגת גבִינה",
         "containsMeat": false,
@@ -3811,7 +3811,7 @@
     },
     {
       "name": "بلاطة اوتار صغيرة - צלחת אוותאר קטנה",
-      "description": "",
+      "description": "كبه, اصابع موتزاريلا, اصابع زعتر, حلقات بصل, بطاطا بيريه, سيجاريوت, بوتيتو",
       "analysis": {
         "name": "بلاطة اوتار صغيرة - צלחת אוותאר קטנה",
         "containsMeat": false,
@@ -3837,7 +3837,7 @@
     },
     {
       "name": "One Million Dollar Salad",
-      "description": "",
+      "description": "A delicious salad that combines various flavors.",
       "analysis": {
         "name": "One Million Dollar Salad",
         "containsMeat": false,
@@ -3850,7 +3850,7 @@
     },
     {
       "name": "بطيخ نعنع - אבטיח מנטה",
-      "description": "",
+      "description": "بطيخ نعنع - אבטיח מנטה",
       "analysis": {
         "name": "بطيخ نعنع - אבטיח מנטה",
         "containsMeat": false,
@@ -4318,7 +4318,7 @@
     },
     {
       "name": "מבחר סלט לסועד",
-      "description": "",
+      "description": "מבחר סלט לסועד",
       "analysis": {
         "name": "מבחר סלט לסועד",
         "containsMeat": false,
@@ -4331,7 +4331,7 @@
     },
     {
       "name": "מבחר סלט לסועד בלי מנה",
-      "description": "",
+      "description": "מבחר סלט לסועד בלי מנה",
       "analysis": {
         "name": "מבחר סלט לסועד בלי מנה",
         "containsMeat": false,
@@ -4344,7 +4344,7 @@
     },
     {
       "name": "פטריות ממלאות",
-      "description": "",
+      "description": "פטריות ממלאות",
       "analysis": {
         "name": "פטריות ממלאות",
         "containsMeat": false,
@@ -4357,7 +4357,7 @@
     },
     {
       "name": "سلطه عربيه",
-      "description": "",
+      "description": "سلطه عربيه",
       "analysis": {
         "name": "سلطه عربيه",
         "containsMeat": false,
@@ -4370,7 +4370,7 @@
     },
     {
       "name": "صينية كبدة دجاج",
-      "description": "",
+      "description": "مقدمه مع البصل والحريف ودبس الرمان",
       "analysis": {
         "name": "صينية كبدة دجاج",
         "containsMeat": true,
@@ -4383,7 +4383,7 @@
     },
     {
       "name": "صينية فيليه عجل",
-      "description": "",
+      "description": "مقدم مع الثوم والفلفل وبندوره شيري الوان",
       "analysis": {
         "name": "صينية فيليه عجل",
         "containsMeat": true,
@@ -4396,7 +4396,7 @@
     },
     {
       "name": "موزة عجل",
-      "description": "",
+      "description": "موزة عجل",
       "analysis": {
         "name": "موزة عجل",
         "containsMeat": true,
@@ -4409,7 +4409,7 @@
     },
     {
       "name": "تتاكي سنته",
-      "description": "",
+      "description": "تتاكي سنته",
       "analysis": {
         "name": "تتاكي سنته",
         "containsMeat": true,
@@ -4422,7 +4422,7 @@
     },
     {
       "name": "ارنشيني",
-      "description": "",
+      "description": "ارنشيني",
       "analysis": {
         "name": "ارنشيني",
         "containsMeat": true,
@@ -4435,7 +4435,7 @@
     },
     {
       "name": "צלעות טלה טיבון",
-      "description": "",
+      "description": "צלעות טלה טיבון",
       "analysis": {
         "name": "צלעות טלה טיבון",
         "containsMeat": true,
@@ -4448,7 +4448,7 @@
     },
     {
       "name": "מחבת פילה עגל עם חמאה בלגית",
-      "description": "",
+      "description": "מחבת פילה עגל עם חמאה בלגית",
       "analysis": {
         "name": "מחבת פילה עגל עם חמאה בלגית",
         "containsMeat": true,
@@ -4461,7 +4461,7 @@
     },
     {
       "name": "טומהוק",
-      "description": "",
+      "description": "טומהוק",
       "analysis": {
         "name": "טומהוק",
         "containsMeat": true,
@@ -4474,7 +4474,7 @@
     },
     {
       "name": "צלעות טלה קטרים",
-      "description": "",
+      "description": "צלעות טלה קטרים",
       "analysis": {
         "name": "צלעות טלה קטרים",
         "containsMeat": true,
@@ -4500,7 +4500,7 @@
     },
     {
       "name": "קלמארי",
-      "description": "",
+      "description": "كلماري",
       "analysis": {
         "name": "קלמארי",
         "containsMeat": false,
@@ -4552,7 +4552,7 @@
     },
     {
       "name": "דגי ים",
-      "description": "",
+      "description": "דגי ים ( شبكة اليوم ) 26₪ ל 100 גרם",
       "analysis": {
         "name": "דגי ים",
         "containsMeat": false,
@@ -4578,7 +4578,7 @@
     },
     {
       "name": "ראשי קלמארי",
-      "description": "",
+      "description": "رؤوس الحبار",
       "analysis": {
         "name": "ראשי קלמארי",
         "containsMeat": false,
@@ -4617,7 +4617,7 @@
     },
     {
       "name": "טורנדו רוסיני",
-      "description": "",
+      "description": "שתי חתיכות פילה עגל עם חתיכת כבד רכז על מצע בקולה עם רוטב שמנת חרדל דוגן קסטנה",
       "analysis": {
         "name": "טורנדו רוסיני",
         "containsMeat": true,
@@ -4630,7 +4630,20 @@
     },
     {
       "name": "כנאפה של האווז",
-      "description": "",
+      "description": "ثلاث قطع من كبد الإوز تقدم مع قاع الكنافة",
+      "analysis": {
+        "name": "כנאפה של האווז",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+     {
+      "name": "כנאפה של האווז",
+      "description": "שלוש חתיכות כבד אווז מוגשת עם תחתית כנאפה",
       "analysis": {
         "name": "כנאפה של האווז",
         "containsMeat": true,
@@ -4669,7 +4682,7 @@
     },
     {
       "name": "בורגר צבעוני",
-      "description": "",
+      "description": "בורגר צבעוני",
       "analysis": {
         "name": "בורגר צבעוני",
         "containsMeat": false,
@@ -4695,7 +4708,7 @@
     },
     {
       "name": "كتف خروف",
-      "description": "",
+      "description": "كتف خروف",
       "analysis": {
         "name": "كتف خروف",
         "containsMeat": true,
@@ -4708,7 +4721,7 @@
     },
     {
       "name": "جريل",
-      "description": "",
+      "description": "Dicta aut quia in do",
       "analysis": {
         "name": "جريل",
         "containsMeat": true,
@@ -4721,7 +4734,7 @@
     },
     {
       "name": "بار",
-      "description": "",
+      "description": "Iure ut nulla molest",
       "analysis": {
         "name": "بار",
         "containsMeat": false,
@@ -4786,7 +4799,7 @@
     },
     {
       "name": "سلطة فتوش",
-      "description": "",
+      "description": "سلطة فتوش",
       "analysis": {
         "name": "سلطة فتوش",
         "containsMeat": false,
@@ -4799,7 +4812,7 @@
     },
     {
       "name": "سلطة تبولة",
-      "description": "",
+      "description": "سلطة تبولة",
       "analysis": {
         "name": "سلطة تبولة",
         "containsMeat": false,
@@ -4812,7 +4825,7 @@
     },
     {
       "name": "اويستر",
-      "description": "",
+      "description": "اويستر",
       "analysis": {
         "name": "اويستر",
         "containsMeat": false,
@@ -4963,7 +4976,7 @@
         "containsFishSeafood": true,
         "notcontainsGluten": true,
         "isVegetarian": false,
-        "isVegan": true
+        "isVegan": false
       }
     },
     {
@@ -5111,7 +5124,7 @@
     },
     {
       "name": "اصابع حلومي",
-      "description": "",
+      "description": "اصابع حلومي",
       "analysis": {
         "name": "اصابع حلومي",
         "containsMeat": false,
@@ -5124,7 +5137,7 @@
     },
     {
       "name": "طبق صدر دجاج",
-      "description": "",
+      "description": "يقدم مع الوجبة: شيبس | سلطة | مخللات | صوص",
       "analysis": {
         "name": "طبق صدر دجاج",
         "containsMeat": true,
@@ -5137,7 +5150,7 @@
     },
     {
       "name": "طبق شرائح انتريكوت",
-      "description": "",
+      "description": "يُقدّم مع: بطاطس مقلية | سلطة | مخلل | صلصة",
       "analysis": {
         "name": "طبق شرائح انتريكوت",
         "containsMeat": true,
@@ -5150,7 +5163,7 @@
     },
     {
       "name": "باستا بيني بصلصة البيتزا",
-      "description": "",
+      "description": "تقدم مع: رقائق البطاطس أو السلطة من اختيارك",
       "analysis": {
         "name": "باستا بيني بصلصة البيتزا",
         "containsMeat": false,
@@ -5163,7 +5176,7 @@
     },
     {
       "name": "ميكس مقالي صغير",
-      "description": "",
+      "description": "ميكس مقالي صغير",
       "analysis": {
         "name": "ميكس مقالي صغير",
         "containsMeat": true,
@@ -5176,7 +5189,7 @@
     },
     {
       "name": "طبق صدر الدجاج وكريمة الفطر",
-      "description": "",
+      "description": "يقدم مع الوجبة: شيبس | سلطة | مخللات | صوص",
       "analysis": {
         "name": "طبق صدر الدجاج وكريمة الفطر",
         "containsMeat": true,
@@ -5189,7 +5202,7 @@
     },
     {
       "name": "وجبة صدر دجاج صحية",
-      "description": "",
+      "description": "وجبة صدر دجاج صحية",
       "analysis": {
         "name": "وجبة صدر دجاج صحية",
         "containsMeat": true,
@@ -5202,7 +5215,7 @@
     },
     {
       "name": "كرات بطاطا صغير",
-      "description": "",
+      "description": "كرات بطاطا صغير",
       "analysis": {
         "name": "كرات بطاطا صغير",
         "containsMeat": false,
@@ -5215,7 +5228,7 @@
     },
     {
       "name": "هوم فرايز",
-      "description": "",
+      "description": "هوم فرايز",
       "analysis": {
         "name": "هوم فرايز",
         "containsMeat": false,
@@ -5228,7 +5241,7 @@
     },
     {
       "name": "طبق شريمبس 10 قطع",
-      "description": "",
+      "description": "طبق شريمبس 10 قطع",
       "analysis": {
         "name": "طبق شريمبس 10 قطع",
         "containsMeat": false,
@@ -5241,7 +5254,7 @@
     },
     {
       "name": "بيتسا",
-      "description": "",
+      "description": "بيتسا",
       "analysis": {
         "name": "بيتسا",
         "containsMeat": false,
@@ -5254,7 +5267,7 @@
     },
     {
       "name": "سلطة صدر الدجاج",
-      "description": "",
+      "description": "سلطة صدر الدجاج",
       "analysis": {
         "name": "سلطة صدر الدجاج",
         "containsMeat": true,
@@ -5267,7 +5280,7 @@
     },
     {
       "name": "سلطة كبريزا",
-      "description": "",
+      "description": "سلطة كبريزا",
       "analysis": {
         "name": "سلطة كبريزا",
         "containsMeat": false,
@@ -5280,7 +5293,7 @@
     },
     {
       "name": "سلطة التبولة",
-      "description": "",
+      "description": "سلطة التبولة",
       "analysis": {
         "name": "سلطة التبولة",
         "containsMeat": false,
@@ -5293,7 +5306,7 @@
     },
     {
       "name": "شاي",
-      "description": "",
+      "description": "شاي",
       "analysis": {
         "name": "شاي",
         "containsMeat": false,
@@ -5306,7 +5319,7 @@
     },
     {
       "name": "جبيتا شنيتسل",
-      "description": "",
+      "description": "الوجبة تشمل: تشيبس | صوص | مخللات",
       "analysis": {
         "name": "جبيتا شنيتسل",
         "containsMeat": true,
@@ -5319,7 +5332,7 @@
     },
     {
       "name": "سوفليه",
-      "description": "",
+      "description": "سوفليه",
       "analysis": {
         "name": "سوفليه",
         "containsMeat": false,
@@ -5332,7 +5345,7 @@
     },
     {
       "name": "برجر كريمة وفطر",
-      "description": "",
+      "description": "يتكون الهامبرغر من اللحوم المختارة. وزن الفطيرة حوالي 200 جرام\r\nالوجبة تشمل: كريمة الفطر | تشيبس | صوص | مخللات",
       "analysis": {
         "name": "برجر كريمة وفطر",
         "containsMeat": true,
@@ -5345,7 +5358,7 @@
     },
     {
       "name": "برجر صدر دجاج",
-      "description": "",
+      "description": "الوجبة تشمل: تشيبس | صوص | مخللات",
       "analysis": {
         "name": "برجر صدر دجاج",
         "containsMeat": true,
@@ -5358,7 +5371,7 @@
     },
     {
       "name": "فيتوتشيني بندورة",
-      "description": "",
+      "description": "يقدم مع: رقائق البطاطس أو السلطة من اختيارك",
       "analysis": {
         "name": "فيتوتشيني بندورة",
         "containsMeat": false,
@@ -5371,7 +5384,7 @@
     },
     {
       "name": "رافيولي جبنة بصوص البندورة",
-      "description": "",
+      "description": "تقدم مع: رقائق البطاطس أو السلطة من اختيارك",
       "analysis": {
         "name": "رافيولي جبنة بصوص البندورة",
         "containsMeat": false,
@@ -5384,7 +5397,7 @@
     },
     {
       "name": "بابارديلا شريمبس",
-      "description": "",
+      "description": "تقدم مع: رقائق البطاطس أو السلطة من اختيارك",
       "analysis": {
         "name": "بابارديلا شريمبس",
         "containsMeat": false,
@@ -5397,7 +5410,7 @@
     },
     {
       "name": "رادياتوري بصوص الروزيه",
-      "description": "",
+      "description": "يقدم مع: رقائق البطاطس أو السلطة من اختيارك",
       "analysis": {
         "name": "رادياتوري بصوص الروزيه",
         "containsMeat": false,
@@ -5410,7 +5423,7 @@
     },
     {
       "name": "فيتوتشيني روزيه",
-      "description": "",
+      "description": "يقدم مع: رقائق البطاطس أو السلطة من اختيارك",
       "analysis": {
         "name": "فيتوتشيني روزيه",
         "containsMeat": false,
@@ -5423,7 +5436,7 @@
     },
     {
       "name": "سباغيتي بندورة",
-      "description": "",
+      "description": "تقدم مع: رقائق البطاطس أو السلطة من اختيارك",
       "analysis": {
         "name": "سباغيتي بندورة",
         "containsMeat": false,
@@ -5436,7 +5449,7 @@
     },
     {
       "name": "باستا بيني بصوص البندورة",
-      "description": "",
+      "description": "تقدم مع: رقائق البطاطس أو السلطة من اختيارك",
       "analysis": {
         "name": "باستا بيني بصوص البندورة",
         "containsMeat": false,
@@ -5449,7 +5462,7 @@
     },
     {
       "name": "تورتيليني فطر بصوص البندورة",
-      "description": "",
+      "description": "يقدم مع: رقائق البطاطس أو السلطة من اختيارك",
       "analysis": {
         "name": "تورتيليني فطر بصوص البندورة",
         "containsMeat": false,
@@ -5462,7 +5475,7 @@
     },
     {
       "name": "توت بنانا",
-      "description": "",
+      "description": "330 ملل",
       "analysis": {
         "name": "توت بنانا",
         "containsMeat": false,
@@ -5475,7 +5488,7 @@
     },
     {
       "name": "فانتا",
-      "description": "",
+      "description": "330 ملل",
       "analysis": {
         "name": "فانتا",
         "containsMeat": false,
@@ -5488,7 +5501,7 @@
     },
     {
       "name": "سبرايت زيرو",
-      "description": "",
+      "description": "سبرايت زيرو",
       "analysis": {
         "name": "سبرايت زيرو",
         "containsMeat": false,
@@ -5501,7 +5514,7 @@
     },
     {
       "name": "شنيتسل اطفال",
-      "description": "",
+      "description": "الوجبة تشمل: تشيبس | صوص",
       "analysis": {
         "name": "شنيتسل اطفال",
         "containsMeat": true,
@@ -5514,7 +5527,7 @@
     },
     {
       "name": "نسكافيه",
-      "description": "",
+      "description": "نسكافيه",
       "analysis": {
         "name": "نسكافيه",
         "containsMeat": false,
@@ -5527,7 +5540,7 @@
     },
     {
       "name": "قهوة وبوظة",
-      "description": "",
+      "description": "قهوة وبوظة",
       "analysis": {
         "name": "قهوة وبوظة",
         "containsMeat": false,
@@ -5540,7 +5553,7 @@
     },
     {
       "name": "كولا",
-      "description": "",
+      "description": "كولا",
       "analysis": {
         "name": "كولا",
         "containsMeat": false,
@@ -5553,7 +5566,7 @@
     },
     {
       "name": "أنتركيوت مشوي",
-      "description": "",
+      "description": "يقدم مع خضار من الفرن وصوص شمينت فطر",
       "analysis": {
         "name": "أنتركيوت مشوي",
         "containsMeat": true,
@@ -5566,7 +5579,7 @@
     },
     {
       "name": "رافيولي بطاطا",
-      "description": "",
+      "description": "رافيولي بطاطا",
       "analysis": {
         "name": "رافيولي بطاطا",
         "containsMeat": false,
@@ -5579,7 +5592,7 @@
     },
     {
       "name": "فيلية بقر",
-      "description": "",
+      "description": "يقدم مع بطاطا پيريه فطر، وصوص شمينت فطر",
       "analysis": {
         "name": "فيلية بقر",
         "containsMeat": true,
@@ -5592,7 +5605,7 @@
     },
     {
       "name": "رفيولي جبنة",
-      "description": "",
+      "description": "رفيولي جبنة",
       "analysis": {
         "name": "رفيولي جبنة",
         "containsMeat": false,
@@ -5605,7 +5618,7 @@
     },
     {
       "name": "مياه معدنية",
-      "description": "",
+      "description": "مياه معدنية",
       "analysis": {
         "name": "مياه معدنية",
         "containsMeat": false,
@@ -5618,7 +5631,7 @@
     },
     {
       "name": "عصير برزر",
-      "description": "",
+      "description": "عصير برزر",
       "analysis": {
         "name": "عصير برزر",
         "containsMeat": false,
@@ -5631,7 +5644,7 @@
     },
     {
       "name": "ميلك شيك نوتيلا",
-      "description": "",
+      "description": "ميلك شيك نوتيلا",
       "analysis": {
         "name": "ميلك شيك نوتيلا",
         "containsMeat": false,
@@ -5644,7 +5657,7 @@
     },
     {
       "name": "كريم بروليه",
-      "description": "",
+      "description": "كريم بروليه",
       "analysis": {
         "name": "كريم بروليه",
         "containsMeat": false,
@@ -5657,7 +5670,7 @@
     },
     {
       "name": "كريب",
-      "description": "",
+      "description": "كريب",
       "analysis": {
         "name": "كريب",
         "containsMeat": false,
@@ -5670,7 +5683,7 @@
     },
     {
       "name": "خلطة شامية",
-      "description": "",
+      "description": "خلطة شامية",
       "analysis": {
         "name": "خلطة شامية",
         "containsMeat": false,
@@ -5683,7 +5696,7 @@
     },
     {
       "name": "Love 66",
-      "description": "",
+      "description": "Love 66",
       "analysis": {
         "name": "Love 66",
         "containsMeat": false,
@@ -5696,7 +5709,7 @@
     },
     {
       "name": "سلطة القيصر مع دجاج",
-      "description": "",
+      "description": "لبة خس، بارميزان، شرائح صدر الدجاج، مكعبات خبز مقلي, صوص القيصر",
       "analysis": {
         "name": "سلطة القيصر مع دجاج",
         "containsMeat": true,
@@ -5709,7 +5722,7 @@
     },
     {
       "name": "سلطة الحلومي",
-      "description": "",
+      "description": "بندورة / خيار / خس / مطبوخة مع تشيلي حلو وترياكي، جبنة حلومي",
       "analysis": {
         "name": "سلطة الحلومي",
         "containsMeat": false,
@@ -5722,7 +5735,7 @@
     },
     {
       "name": "خبز فوكاتشا",
-      "description": "",
+      "description": "خبز فوكتشا يقدم مع ثومة مبروشة وزيت زيتون مع زيت البلسامي",
       "analysis": {
         "name": "خبز فوكاتشا",
         "containsMeat": false,
@@ -5735,7 +5748,7 @@
     },
     {
       "name": "أدمامي",
-      "description": "",
+      "description": "يقدم مع الليمون، فلفل حار والكمون",
       "analysis": {
         "name": "أدمامي",
         "containsMeat": false,
@@ -5748,7 +5761,7 @@
     },
     {
       "name": "كرباتشيو بقر",
-      "description": "",
+      "description": "مقدم مع شرائح برميزان، صلصة جرجير، كونفي ثوم, صوص البلسمي، خبزة فوكاتشا",
       "analysis": {
         "name": "كرباتشيو بقر",
         "containsMeat": true,
@@ -5761,7 +5774,7 @@
     },
     {
       "name": "برجر",
-      "description": "",
+      "description": "چرام 200, مقدم في لخمنيوت, أيولي كلاسي, خسة لليك, بندورة,بصل,مخلل, يقدم مع تشيبس",
       "analysis": {
         "name": "برجر",
         "containsMeat": true,
@@ -5774,7 +5787,7 @@
     },
     {
       "name": "نودلز دجاج",
-      "description": "",
+      "description": "يقدم مع ميكس خضار بصل فلفل جامبا / جزر فطر شرائح دجاج، جوز محمص بصل أخضر صوص ترياكي / تشيلي",
       "analysis": {
         "name": "نودلز دجاج",
         "containsMeat": true,
@@ -5787,7 +5800,7 @@
     },
     {
       "name": "سباچيتي مع كريمة الفطر",
-      "description": "",
+      "description": "سباچيتي مع كريمة الفطر",
       "analysis": {
         "name": "سباچيتي مع كريمة الفطر",
         "containsMeat": false,
@@ -5800,7 +5813,7 @@
     },
     {
       "name": "أرنشيني مكسرات وريحان",
-      "description": "",
+      "description": "طابات أرز الريزوتو مقلي، يقدم على كريم بندورة وزبدة",
       "analysis": {
         "name": "أرنشيني مكسرات وريحان",
         "containsMeat": false,
@@ -5813,7 +5826,7 @@
     },
     {
       "name": "بورجر أوها 150g",
-      "description": "",
+      "description": "بورجر أوها – 150 غرام",
       "analysis": {
         "name": "بورجر أوها 150g",
         "containsMeat": true,
@@ -5826,7 +5839,7 @@
     },
     {
       "name": "تورتيلا تشيكن",
-      "description": "",
+      "description": "تورتيلا تشيكن",
       "analysis": {
         "name": "تورتيلا تشيكن",
         "containsMeat": true,
@@ -5839,7 +5852,7 @@
     },
     {
       "name": "أوها أطفال",
-      "description": "",
+      "description": "وجبة أطفال من أوها – 120 غرام",
       "analysis": {
         "name": "أوها أطفال",
         "containsMeat": false,
@@ -5852,7 +5865,7 @@
     },
     {
       "name": "XL 10",
-      "description": "",
+      "description": "XL 10",
       "analysis": {
         "name": "XL 10",
         "containsMeat": false,
@@ -5865,7 +5878,7 @@
     },
     {
       "name": "كوكا كولا زيرو",
-      "description": "",
+      "description": "مشروب غازي بلا سكر",
       "analysis": {
         "name": "كوكا كولا زيرو",
         "containsMeat": false,
@@ -5878,7 +5891,7 @@
     },
     {
       "name": "فتوش",
-      "description": "",
+      "description": "سلطة فتوش مع الخبز المحمص والخضار",
       "analysis": {
         "name": "فتوش",
         "containsMeat": false,
@@ -5891,7 +5904,7 @@
     },
     {
       "name": "بورجر أوها 400g",
-      "description": "",
+      "description": "בורגר במשקל 400 גרם",
       "analysis": {
         "name": "بورجر أوها 400g",
         "containsMeat": true,
@@ -5904,7 +5917,7 @@
     },
     {
       "name": "حلقات بصل",
-      "description": "",
+      "description": "حلقات بصل مقليّة",
       "analysis": {
         "name": "حلقات بصل",
         "containsMeat": false,
@@ -5917,7 +5930,7 @@
     },
     {
       "name": "بيتزا L",
-      "description": "",
+      "description": "بيتزا L",
       "analysis": {
         "name": "بيتزا L",
         "containsMeat": false,
@@ -5930,7 +5943,7 @@
     },
     {
       "name": "كولا كبير",
-      "description": "",
+      "description": "مشروب غازي حلو",
       "analysis": {
         "name": "كولا كبير",
         "containsMeat": false,
@@ -5943,7 +5956,7 @@
     },
     {
       "name": "بيتزا M",
-      "description": "",
+      "description": "بيتزا M",
       "analysis": {
         "name": "بيتزا M",
         "containsMeat": false,
@@ -5956,7 +5969,7 @@
     },
     {
       "name": "بيتزا S",
-      "description": "",
+      "description": "بيتزا S",
       "analysis": {
         "name": "بيتزا S",
         "containsMeat": false,
@@ -5969,7 +5982,7 @@
     },
     {
       "name": "كولا زيرو كبير",
-      "description": "",
+      "description": "مشروب غازي خالي من السكر",
       "analysis": {
         "name": "كولا زيرو كبير",
         "containsMeat": false,
@@ -6060,7 +6073,7 @@
     },
     {
       "name": "صحن حمص",
-      "description": "",
+      "description": "صحن حمص",
       "analysis": {
         "name": "صحن حمص",
         "containsMeat": false,
@@ -6073,7 +6086,7 @@
     },
     {
       "name": "منسف برمويم",
-      "description": "",
+      "description": "منسف برمويم",
       "analysis": {
         "name": "منسف برمويم",
         "containsMeat": true,
@@ -6086,7 +6099,7 @@
     },
     {
       "name": "سلطة حلومي",
-      "description": "",
+      "description": "سلطة حلومي",
       "analysis": {
         "name": "سلطة حلومي",
         "containsMeat": false,
@@ -6099,7 +6112,7 @@
     },
     {
       "name": "بلاطة مقالي",
-      "description": "",
+      "description": "بلاطة مقالي",
       "analysis": {
         "name": "بلاطة مقالي",
         "containsMeat": false,
@@ -6112,7 +6125,7 @@
     },
     {
       "name": "مشكل لحمه",
-      "description": "",
+      "description": "مشكل لحمه",
       "analysis": {
         "name": "مشكل لحمه",
         "containsMeat": true,
@@ -6125,7 +6138,7 @@
     },
     {
       "name": "שרוול פילה עגל מוגש עם חמאה",
-      "description": "",
+      "description": "שרוול פילה עגל מוגש עם חמאה",
       "analysis": {
         "name": "שרוול פילה עגל מוגש עם חמאה",
         "containsMeat": true,
@@ -6366,6 +6379,682 @@
         "containsChicken": false,
         "containsFishSeafood": true,
         "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سباغيتي - ספַּגֶטִי",
+      "description": "سباغيتي - ספַּגֶטִי",
+      "analysis": {
+        "name": "سباغيتي - ספַּגֶטִי",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "BlueDay",
+      "description": "بلودي",
+      "analysis": {
+        "name": "BlueDay",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "Sprite Zero",
+      "description": "سبرايت زيرو",
+      "analysis": {
+        "name": "Sprite Zero",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Orange juice",
+      "description": "330 ml",
+      "analysis": {
+        "name": "Orange juice",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "Red Bull",
+      "description": "ردبول",
+      "analysis": {
+        "name": "Red Bull",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "صحن حمص",
+      "description": "",
+      "analysis": {
+        "name": "صحن حمص",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سلطة حلومي",
+      "description": "",
+      "analysis": {
+        "name": "سلطة حلومي",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "سلطه عربيه",
+      "description": "",
+      "analysis": {
+        "name": "سلطه عربيه",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "פנה פרמיום",
+      "description": "פסטה פנה מוגשת עם נתחי פילה עגל וגבינה מעל",
+      "analysis": {
+        "name": "פנה פרמיום",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "רביולי גבינה",
+      "description": "رافيولي الجبن",
+      "analysis": {
+        "name": "רביולי גבינה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": true,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "كرباتشو",
+      "description": "كرباتشو",
+      "analysis": {
+        "name": "كرباتشو",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "صنية كباب بالطحينه",
+      "description": "كباب حلبي مقدم مع طحينه بطاطا بيتنجان ثوم بالطابون",
+      "analysis": {
+        "name": "صنية كباب بالطحينه",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "فخارة لحم",
+      "description": "فخارة لحم",
+      "analysis": {
+        "name": "فخارة لحم",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "מבחר סלט לסועד בלי מנה",
+      "description": "מבחר סלט לסועד בלי מנה",
+      "analysis": {
+        "name": "מבחר סלט לסועד בלי מנה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "اسادو",
+      "description": "2 كيلو",
+      "analysis": {
+        "name": "اسادو",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "פטריות מוקפצות",
+      "description": "פטריות מוקפצות",
+      "analysis": {
+        "name": "פטריות מוקפצות",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "سيفيتشي",
+      "description": "سيفيتشي",
+      "analysis": {
+        "name": "سيفيتشي",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "סטייק אנטריקוט",
+      "description": "סטייק אנטריקוט",
+      "analysis": {
+        "name": "סטייק אנטריקוט",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "סטייק פלה",
+      "description": "סטייק פלה",
+      "analysis": {
+        "name": "סטייק פלה",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "סנטה פלה",
+      "description": "סנטה פלה",
+      "analysis": {
+        "name": "סנטה פלה",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "חצי שרימפס",
+      "description": "نصف جمبري",
+      "analysis": {
+        "name": "חצי שרימפס",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "חצי ראשי קלמארי",
+      "description": "نصف رؤوس الحبار",
+      "analysis": {
+        "name": "חצי ראשי קלמארי",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "דניס",
+      "description": "دينيس",
+      "analysis": {
+        "name": "דניס",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "טאג'ין דגים",
+      "description": "طاجن السمك",
+      "analysis": {
+        "name": "טאג'ין דגים",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "שרימפס קריסטל",
+      "description": "שרימפס קריסטל לפי משקל 40₪ ל 100 גרם",
+      "analysis": {
+        "name": "שרימפס קריסטל",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "צדפות",
+      "description": "محار",
+      "analysis": {
+        "name": "צדפות",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "דיו פירות ים",
+      "description": "דיו פירות ים",
+      "analysis": {
+        "name": "דיו פירות ים",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "קלמרי סגול",
+      "description": "الحبار الأرجواني",
+      "analysis": {
+        "name": "קלמרי סגול",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "שרימפס טמבורה",
+      "description": "جمبري تامبورا",
+      "analysis": {
+        "name": "שרימפס טמבורה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "منسف دولكس بريميوم",
+      "description": "منسف دولكس بريميوم (يكفي لاربع اشخاص)",
+      "analysis": {
+        "name": "منسف دولكس بريميوم",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ترتر",
+      "description": "ترتر",
+      "analysis": {
+        "name": "ترتر",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": true,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "שיפודים כבש",
+      "description": "خروف",
+      "analysis": {
+        "name": "שיפודים כבש",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "קבב",
+      "description": "كباب",
+      "analysis": {
+        "name": "קבב",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "שרימפס",
+      "description": "جمبري",
+      "analysis": {
+        "name": "שרימפס",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "שרימפס קלמרי",
+      "description": "جمبري كلماري",
+      "analysis": {
+        "name": "שרימפס קלמרי",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "סלמון פרמיום",
+      "description": "מוקפץ ברוטב תריקי",
+      "analysis": {
+        "name": "סלמון פרמיום",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "שרימפס כנאפה",
+      "description": "كنافة الجمبري",
+      "analysis": {
+        "name": "שרימפס כנאפה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "חצי צדפות",
+      "description": "نصف محار",
+      "analysis": {
+        "name": "חצי צדפות",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "פילה דניס",
+      "description": "فيليه دنيس",
+      "analysis": {
+        "name": "פילה דניס",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "לוקוס",
+      "description": "לוקוס לפי משקל 30₪ ל 100גרם",
+      "analysis": {
+        "name": "לוקוס",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "صينية كباب برميوم",
+      "description": "كباب حلبي مقدم مع بندوره فلفل حار بصل ثوم بالطابون",
+      "analysis": {
+        "name": "صينية كباب برميوم",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "חצי סרטן",
+      "description": "نصف سلطعون",
+      "analysis": {
+        "name": "חצי סרטן",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "פילה לברק",
+      "description": "فيليه لبراك",
+      "analysis": {
+        "name": "פילה לברק",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "חצי קלמרי",
+      "description": "نصف كلماري",
+      "analysis": {
+        "name": "חצי קלמרי",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "חפלת בחר",
+      "description": "חפלת בחר",
+      "analysis": {
+        "name": "חפלת בחר",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "اسادو",
+      "description": "800 גרם",
+      "analysis": {
+        "name": "اسادو",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "סלמון בתנור",
+      "description": "سلمون في الفرن",
+      "analysis": {
+        "name": "סלמון בתנור",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "ברבוניה",
+      "description": "ברבוניה לפי משקל 28₪ ל 100 גרם",
+      "analysis": {
+        "name": "ברבוניה",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": true
+      }
+    },
+    {
+      "name": "טאג'ין שרימפס",
+      "description": "طاجن الجمبري",
+      "analysis": {
+        "name": "טאג'ין שרימפס",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": false,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "סרטן",
+      "description": "سلطعون",
+      "analysis": {
+        "name": "סרטן",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+    {
+      "name": "מגדל פרימיום",
+      "description": "פלה עגל , כבד אווז, צלע קטר , חזה אוז , סנטה עגל",
+      "analysis": {
+        "name": "מגדל פרימיום",
+        "containsMeat": true,
+        "containsChicken": false,
+        "containsFishSeafood": false,
+        "notcontainsGluten": true,
+        "isVegetarian": false,
+        "isVegan": false
+      }
+    },
+      {
+      "name": "פטוצ'יני פירות ים",
+      "description": "فيتوتشيني المأكولات البحرية",
+      "analysis": {
+        "name": "פטוצ'יני פירות ים",
+        "containsMeat": false,
+        "containsChicken": false,
+        "containsFishSeafood": true,
+        "notcontainsGluten": true,
         "isVegetarian": false,
         "isVegan": false
       }

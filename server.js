@@ -73,7 +73,7 @@ app.post('/api/ai-analyze-meals', async (req, res) => {
     for (const meal of meals) {
       const found = cache.meals.find(
         (m) =>
-          m.name === meal.name &&
+         m.name === meal.name &&
           (m.description || "") === (meal.description || "")
       );
       if (found) {
@@ -81,10 +81,6 @@ app.post('/api/ai-analyze-meals', async (req, res) => {
       } else {
         mealsToAnalyze.push(meal);
       }
-    }
-
-    if (mealsToAnalyze.length > 10) {
-      mealsToAnalyze = mealsToAnalyze.slice(0, 10);
     }
 
     let newAnalyses = [];

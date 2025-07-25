@@ -236,11 +236,11 @@ export function NewItems({ selectedCompany, onItemClick, onAddToCart, aiDietaryP
                     </span>
                   </div>
 
-                  {item.description && (
+                  {/* {item.description && (
                     <p className="text-gray-800 mb-3 sm:mb-4 line-clamp-2 text-xs sm:text-sm">
                       {item.description}
                     </p>
-                  )}
+                  )} */}
 
                   <DietaryTags
                     foodName={item.name}

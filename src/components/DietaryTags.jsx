@@ -14,7 +14,7 @@ export function DietaryTags({ foodName, description, className = "", showTags = 
         return;
       }
 
-      const item = { name: foodName };
+      const item = { name: foodName, description };
 
       let analysis = aiDietaryAnalyzer.getItemAnalysis(item);
 
