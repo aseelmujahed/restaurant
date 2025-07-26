@@ -4641,7 +4641,7 @@
         "isVegan": false
       }
     },
-     {
+    {
       "name": "כנאפה של האווז",
       "description": "שלוש חתיכות כבד אווז מוגשת עם תחתית כנאפה",
       "analysis": {
@@ -4747,7 +4747,7 @@
     },
     {
       "name": "مشاوي بار",
-      "description": "",
+      "description": "Dicta aut quia in do",
       "analysis": {
         "name": "مشاوي بار",
         "containsMeat": true,
@@ -4760,7 +4760,7 @@
     },
     {
       "name": "פטריות מוקפצות",
-      "description": "",
+      "description": "פטריות מוקפצות",
       "analysis": {
         "name": "פטריות מוקפצות",
         "containsMeat": false,
@@ -4773,7 +4773,7 @@
     },
     {
       "name": "منسف دولكس بريميوم",
-      "description": "",
+      "description": "منسف دولكس بريميوم (يكفي لاربع اشخاص)",
       "analysis": {
         "name": "منسف دولكس بريميوم",
         "containsMeat": true,
@@ -4786,7 +4786,7 @@
     },
     {
       "name": "فخارة لحم",
-      "description": "",
+      "description": "فخارة لحم",
       "analysis": {
         "name": "فخارة لحم",
         "containsMeat": true,
@@ -4838,7 +4838,7 @@
     },
     {
       "name": "سيفيتشي",
-      "description": "",
+      "description": "سيفيتشي",
       "analysis": {
         "name": "سيفيتشي",
         "containsMeat": false,
@@ -4851,7 +4851,7 @@
     },
     {
       "name": "סטייק אנטריקוט",
-      "description": "",
+      "description": "סטייק אנטריקוט",
       "analysis": {
         "name": "סטייק אנטריקוט",
         "containsMeat": true,
@@ -4864,7 +4864,7 @@
     },
     {
       "name": "סטייק טיבון",
-      "description": "",
+      "description": "סטייק טיבון",
       "analysis": {
         "name": "סטייק טיבון",
         "containsMeat": true,
@@ -4877,7 +4877,7 @@
     },
     {
       "name": "كباب",
-      "description": "",
+      "description": "كباب",
       "analysis": {
         "name": "كباب",
         "containsMeat": true,
@@ -4890,7 +4890,7 @@
     },
     {
       "name": "نصف كلماري",
-      "description": "",
+      "description": "نصف كلماري",
       "analysis": {
         "name": "نصف كلماري",
         "containsMeat": false,
@@ -4903,7 +4903,7 @@
     },
     {
       "name": "דיו פירות ים",
-      "description": "",
+      "description": "דיו פירות ים",
       "analysis": {
         "name": "דיו פירות ים",
         "containsMeat": false,
@@ -4916,7 +4916,7 @@
     },
     {
       "name": "سلمون في الفرن",
-      "description": "",
+      "description": "سلمون في الفرن",
       "analysis": {
         "name": "سلمون في الفرن",
         "containsMeat": false,
@@ -4929,7 +4929,7 @@
     },
     {
       "name": "سمك مقلي",
-      "description": "",
+      "description": "سمك مقلي",
       "analysis": {
         "name": "سمك مقلي",
         "containsMeat": false,
@@ -4942,7 +4942,7 @@
     },
     {
       "name": "كنافة الجمبري",
-      "description": "",
+      "description": "كنافة الجمبري",
       "analysis": {
         "name": "كنافة الجمبري",
         "containsMeat": false,
@@ -4955,7 +4955,7 @@
     },
     {
       "name": "سلطعون",
-      "description": "",
+      "description": "سلطعون",
       "analysis": {
         "name": "سلطعون",
         "containsMeat": false,
@@ -4968,7 +4968,7 @@
     },
     {
       "name": "فيليه لبراك",
-      "description": "",
+      "description": "فيليه لبراك",
       "analysis": {
         "name": "فيليه لبراك",
         "containsMeat": false,
@@ -4981,7 +4981,7 @@
     },
     {
       "name": "لوكوس",
-      "description": "",
+      "description": "לוקוס לפי משקל 30₪ ל 100גרם",
       "analysis": {
         "name": "لوكوس",
         "containsMeat": false,
@@ -4994,7 +4994,7 @@
     },
     {
       "name": "برج بريميوم",
-      "description": "",
+      "description": "פלה עגל , כבד אווז, צלע קטר , חזה אוז , סנטה עגל",
       "analysis": {
         "name": "برج بريميوم",
         "containsMeat": true,
@@ -5007,7 +5007,7 @@
     },
     {
       "name": "فيليه دبي الفاخر",
-      "description": "",
+      "description": "فيليه لحم العجل مع صلصة كريمة العسل والخردل",
       "analysis": {
         "name": "فيليه دبي الفاخر",
         "containsMeat": true,
@@ -5020,7 +5020,7 @@
     },
     {
       "name": "بيني بريميوم",
-      "description": "",
+      "description": "معكرونة بيني تقدم مع قطع من لحم العجل والجبن في الأعلى",
       "analysis": {
         "name": "بيني بريميوم",
         "containsMeat": false,
@@ -5033,7 +5033,7 @@
     },
     {
       "name": "سباغيتي الجمبري",
-      "description": "",
+      "description": "سباغيتي الجمبري مع صلصة كريمة الثوم",
       "analysis": {
         "name": "سباغيتي الجمبري",
         "containsMeat": false,
@@ -5046,7 +5046,7 @@
     },
     {
       "name": "شنتيسل",
-      "description": "",
+      "description": "شنتيسل",
       "analysis": {
         "name": "شنتيسل",
         "containsMeat": true,
@@ -5059,7 +5059,7 @@
     },
     {
       "name": "سباغيتي الطماطم",
-      "description": "",
+      "description": "سباغيتي الطماطم",
       "analysis": {
         "name": "سباغيتي الطماطم",
         "containsMeat": false,
@@ -5072,7 +5072,7 @@
     },
     {
       "name": "رقبة خروف",
-      "description": "",
+      "description": "رقبة خروف",
       "analysis": {
         "name": "رقبة خروف",
         "containsMeat": true,
@@ -5085,7 +5085,7 @@
     },
     {
       "name": "تورتيليني لحمة بصوص الروزيه",
-      "description": "",
+      "description": "تورتيليني لحمة بصوص الروزيه",
       "analysis": {
         "name": "تورتيليني لحمة بصوص الروزيه",
         "containsMeat": true,
@@ -5098,7 +5098,7 @@
     },
     {
       "name": "كوكا كولا زجاجة",
-      "description": "",
+      "description": "مشروب كوكا كولا زجاجي",
       "analysis": {
         "name": "كوكا كولا زجاجة",
         "containsMeat": false,
@@ -5111,7 +5111,7 @@
     },
     {
       "name": "ماء",
-      "description": "",
+      "description": "330 ملم",
       "analysis": {
         "name": "ماء",
         "containsMeat": false,
@@ -7046,7 +7046,7 @@
         "isVegan": false
       }
     },
-      {
+    {
       "name": "פטוצ'יני פירות ים",
       "description": "فيتوتشيني المأكولات البحرية",
       "analysis": {
