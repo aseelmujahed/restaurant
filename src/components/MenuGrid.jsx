@@ -4,7 +4,7 @@ import { useLanguage } from '../contexts/LanguageContext';
 import { DietaryTags } from './DietaryTags';
 import { aiDietaryAnalyzer } from '../services/aiDietaryAnalyzer';
 
-export function MenuGrid({ items, onItemClick, onAddToCart, showTags = false  }) {
+export function MenuGrid({ items, onItemClick, onAddToCart, showTags = false }) {
   const { t } = useLanguage();
 
   return (
@@ -38,14 +38,14 @@ export function MenuGrid({ items, onItemClick, onAddToCart, showTags = false  })
               {item.name}
             </h3>
 
-              {showTags && (
-        <DietaryTags
-          foodName={item.name}
-          description={item.description}
-          showTags={true}
-          className="mt-1"
-        />
-      )}
+            {showTags && (
+              <DietaryTags
+                foodName={item.name}
+                description={item.description}
+                showTags={true}
+                className="mt-1"
+              />
+            )}
             {item.company && (
               <div className="flex items-center mb-2">
                 <span className="text-xs sm:text-sm text-blue-800 bg-blue-50 px-2 py-1 rounded-full capitalize-names mt-2">
@@ -58,9 +58,9 @@ export function MenuGrid({ items, onItemClick, onAddToCart, showTags = false  })
                 {item.description}
               </p>
             )} */}
-            
-            <div className="flex items-center justify-between">
-              <span className="text-xl sm:text-2xl font-bold text-blue-800">
+
+            <div className="flex flex-col items-start mt-3">
+              <span className="text-xl sm:text-2xl font-bold text-blue-800 self-end">
                 ₪{item.price}
               </span>
               <button
@@ -68,7 +68,7 @@ export function MenuGrid({ items, onItemClick, onAddToCart, showTags = false  })
                   e.stopPropagation();
                   onItemClick(item);
                 }}
-                className="text-blue-800 hover:text-blue-700 text-xs sm:text-sm font-medium"
+                className="text-blue-800 hover:text-blue-700 text-xs sm:text-sm font-medium mt-1"
               >
                 {t('item.view_details')}
               </button>

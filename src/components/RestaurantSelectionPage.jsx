@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Search, MapPin, Clock, Star, ArrowLeft, Building2, ChevronRight, Grid3X3, Phone } from 'lucide-react';
+import { Search, MapPin, Clock, Star, ArrowLeft, Building2, ChevronRight, Phone } from 'lucide-react';
 import { useLanguage } from '../contexts/LanguageContext';
 import { LanguageSelector } from './LanguageSelector';
 import { apiService } from '../services/api';
@@ -12,6 +12,7 @@ export function RestaurantSelectionPage({ onRestaurantSelect, selectedCompany, o
   const [searchQuery, setSearchQuery] = useState('');
   const [isLoading, setIsLoading] = useState(true);
   const { t, language } = useLanguage();
+  const isRTL = language === 'ar' || language === 'he';
 
   useEffect(() => {
     fetchRestaurants();
@@ -150,9 +151,10 @@ export function RestaurantSelectionPage({ onRestaurantSelect, selectedCompany, o
       <div className="bg-gradient-to-r from-blue-500 via-purple-500 to-indigo-500 shadow-xl">
         <div className="max-w-7xl mx-auto px-2 sm:px-4 lg:px-8 py-4 sm:py-6">
           <div className="flex items-center justify-between mb-4 sm:mb-6">
-            <div className="flex items-center space-x-3 sm:space-x-4">
+            <div className="flex items-center gap-2 sm:gap-3">
+
               <div className="p-2 sm:p-3 bg-white/20 backdrop-blur-sm rounded-full">
-                <Building2 className="w-6 h-6 sm:w-8 sm:h-8 text-white flex-shrink-0" />
+                <Building2 className="w-6 h-6 sm:w-8 sm:h-8 text-white flex-shrink-0 gap-2" />
               </div>
               <div className="min-w-0">
                 <h1 className="text-xl sm:text-3xl font-bold text-white drop-shadow-lg">{t('restaurants.title')}</h1>
@@ -161,7 +163,7 @@ export function RestaurantSelectionPage({ onRestaurantSelect, selectedCompany, o
                 </p>
               </div>
             </div>
-            <div className="bg-white/20 backdrop-blur-sm rounded-lg p-1">
+            <div className="z-50 bg-white/20 backdrop-blur-sm rounded-lg p-1">
               <LanguageSelector />
             </div>
           </div>
@@ -177,19 +179,16 @@ export function RestaurantSelectionPage({ onRestaurantSelect, selectedCompany, o
               placeholder={t('restaurants.search_placeholder')}
               className="block w-full pl-8 sm:pl-10 pr-3 py-3 sm:py-4 border-0 rounded-xl leading-5 bg-white/95 backdrop-blur-sm placeholder-gray-500 focus:outline-none focus:placeholder-gray-400 focus:ring-4 focus:ring-white/50 focus:bg-white text-sm sm:text-base shadow-lg transition-all duration-300"
             />
-            <div className="absolute inset-y-0 right-0 pr-3 flex items-center">
-              <div className="w-2 h-2 bg-blue-400 rounded-full animate-pulse"></div>
-            </div>
           </div>
         </div>
-        
+
       </div>
 
       <div className="max-w-7xl mx-auto px-2 sm:px-4 lg:px-8 py-8">
         {filteredRestaurants.length === 0 ? (
           <div className="text-center py-12 sm:py-16 px-4">
             <div className="w-20 h-20 sm:w-24 sm:h-24 mx-auto mb-6 bg-gradient-to-br from-amber-100 to-orange-100 rounded-full flex items-center justify-center">
-              <Building2 className="w-10 h-10 sm:w-12 sm:h-12 text-blue-500" />
+              <Building2 className="w-10 h-10 sm:w-12 sm:h-12 text-blue-500 ml-2" />
             </div>
             <div className="text-gray-600 text-lg sm:text-xl font-semibold mb-2">
               {searchQuery ? t('restaurants.no_results') : t('restaurants.no_restaurants')}
@@ -214,9 +213,11 @@ export function RestaurantSelectionPage({ onRestaurantSelect, selectedCompany, o
                   }}
                 >
                   <div className="h-2 bg-gradient-to-r from-blue-400 via-purple-400 to-indigo-400"></div>
-                  
+
                   <div className="p-5 sm:p-7">
-                    <div className="flex items-start space-x-3 sm:space-x-4 mb-4">
+                    {/* <div className="flex items-start space-x-3 sm:space-x-4 mb-4"> */}
+                    <div className="flex items-start gap-3 sm:gap-4 mb-4">
+
                       {restaurant.settings?.logo ? (
                         <img
                           src={restaurant.settings.logo}
@@ -233,12 +234,12 @@ export function RestaurantSelectionPage({ onRestaurantSelect, selectedCompany, o
                         <h3 className="text-lg sm:text-xl font-bold bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent group-hover:from-blue-600 group-hover:to-purple-600 transition-all duration-300 truncate capitalize-names">
                           {restaurant.name}
                         </h3>
-                        <p className="text-xs sm:text-sm text-blue-600 font-medium truncate">@{restaurant.subdomain}</p>
+                        {/* <p className="text-xs sm:text-sm text-blue-600 font-medium truncate">@{restaurant.subdomain}</p> */}
 
                         {dayStatus && (
                           <div className={`inline-flex items-center px-3 py-1.5 rounded-full text-xs font-semibold mt-2 shadow-sm ${dayStatus.isOpen
-                              ? 'bg-gradient-to-r from-emerald-100 to-green-100 text-emerald-800 border border-emerald-200'
-                              : 'bg-gradient-to-r from-red-100 to-rose-100 text-red-800 border border-red-200'
+                            ? 'bg-gradient-to-r from-emerald-100 to-green-100 text-emerald-800 border border-emerald-200'
+                            : 'bg-gradient-to-r from-red-100 to-rose-100 text-red-800 border border-red-200'
                             }`}>
                             <div className={`w-2 h-2 rounded-full mr-2 animate-pulse ${dayStatus.isOpen ? 'bg-green-500' : 'bg-red-500'
                               }`}></div>
@@ -283,7 +284,6 @@ export function RestaurantSelectionPage({ onRestaurantSelect, selectedCompany, o
                       <div className="mt-4 sm:mt-5 pt-4 sm:pt-5 border-t border-blue-100">
                         <div className="flex items-center justify-between mb-2">
                           <h4 className="text-xs sm:text-sm font-semibold text-gray-800 flex items-center">
-                            <Grid3X3 className="w-3 h-3 mr-1 text-blue-500" />
                             {t('categories.categories')} ({restaurantCategories[restaurant.id].total})
                           </h4>
                           {restaurantCategories[restaurant.id].total > 3 && (
@@ -314,7 +314,7 @@ export function RestaurantSelectionPage({ onRestaurantSelect, selectedCompany, o
                             <div
                               key={category.id}
                               onClick={(e) => handleCategoryClick(restaurant, category, e)}
-                              className="flex items-center space-x-2 p-3 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl hover:from-blue-100 hover:to-purple-100 transition-all duration-300 cursor-pointer transform hover:scale-105 border border-blue-100 hover:border-blue-200 shadow-sm hover:shadow-md"
+                              className="flex items-center gap-2 p-3 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl hover:from-blue-100 hover:to-purple-100 transition-all duration-300 cursor-pointer transform hover:scale-105 border border-blue-100 hover:border-blue-200 shadow-sm hover:shadow-md"
                             >
                               <img
                                 src={category.image}

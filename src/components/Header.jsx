@@ -34,7 +34,7 @@ export function Header({ onMenuClick, onCartClick, onSearchClick, onAIFilterClic
     <header className="bg-gradient-to-r from-white via-blue-50 to-purple-50 shadow-lg border-b border-blue-100 sticky top-0 z-40 backdrop-blur-sm">
       <div className="max-w-7xl mx-auto px-2 sm:px-4 lg:px-8">
         <div className="flex justify-between items-center h-14 sm:h-16">
-          <div className="flex items-center space-x-2 sm:space-x-4 flex-1 min-w-0">
+          <div className="flex items-center gap-2 flex-1 min-w-0">
             {displayCompany?.settings.logo && (
               <img
                 src={displayCompany.settings.logo}
@@ -44,10 +44,10 @@ export function Header({ onMenuClick, onCartClick, onSearchClick, onAIFilterClic
             )}
             <div className="min-w-0 flex-1">
               <h1 className="text-sm sm:text-xl font-bold bg-gradient-to-r from-gray-900 via-blue-800 to-purple-800 bg-clip-text text-transparent truncate capitalize-names" title={displayCompany?.name}>{displayCompany?.name}</h1>
-<div className={`flex flex-col sm:flex-row sm:items-center text-xs sm:text-sm text-gray-500 ${isRTL ? 'sm:space-x-reverse sm:space-x-4' : 'sm:space-x-4'}`}>
+              <div className={`flex flex-col sm:flex-row sm:items-center text-xs sm:text-sm text-gray-500 ${isRTL ? 'sm:space-x-reverse sm:space-x-4' : 'sm:space-x-4'}`}>
                 {displayCompany?.settings.address && (
                   <div className="hidden sm:flex items-center min-w-0">
-<MapPin className={`w-3 h-3 ${isRTL ? 'ml-1' : 'mr-1'}`} />
+                    <MapPin className={`w-3 h-3 ${isRTL ? 'ml-1' : 'mr-1'}`} />
                     <span className="truncate ">{displayCompany.settings.address}</span>
                   </div>
                 )}
@@ -57,7 +57,6 @@ export function Header({ onMenuClick, onCartClick, onSearchClick, onAIFilterClic
                     <span>{displayCompany.settings.phone_number}</span>
                   </div>
                 )}
-
               </div>
             </div>
           </div>
